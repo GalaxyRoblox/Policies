@@ -7,7 +7,7 @@ This community is based around the Roblox game [Galaxy](https://roblox.com/games
 
 !!! danger "Work in Progress"
 
-    This guide is still being actively worked on, and is not quite ready yet. Report any issues to @cswimr on Discord.
+    This guide is still being actively worked on, and is not quite ready yet. Report any issues to @cswim on Discord.
 
 ## Trial Moderators
 
