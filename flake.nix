@@ -73,9 +73,8 @@
               command = ''mkdocs "$@"'';
               help = "Project documentation with Markdown / static website generator";
             }
-            {
-              package = act;
-            }
+            { package = act; }
+            { package = pre-commit; }
             {
               name = "reset-pre-commit-flag";
               command = ''rm -v "$PRJ_DATA_DIR/.pre-commit-enabled" && pre-commit uninstall && direnv reload'';

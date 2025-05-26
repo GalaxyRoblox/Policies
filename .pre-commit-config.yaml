@@ -8,3 +8,8 @@ repos:
         exclude_types: [markdown]
       - id: end-of-file-fixer
         exclude_types: [markdown]
+  - repo: https://github.com/astral-sh/uv-pre-commit
+    rev: 0.7.8
+    hooks:
+      - id: uv-lock
+      - id: uv-export
