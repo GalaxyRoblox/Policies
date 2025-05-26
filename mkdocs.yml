@@ -1,8 +1,8 @@
 ﻿site_name: Galaxy Policies
-site_url: !ENV [SITE_URL, "https://policy.galaxy.casa"]
+site_url: "https://policy.galaxy.casa"
 repo_name: GalaxyRoblox/Policies
 repo_url: https://github.com/GalaxyRoblox/Policies
-edit_uri: !ENV [EDIT_URI, "edit/main/docs"]
+edit_uri: "edit/main/docs"
 copyright: Copyright &copy; {year}, GalaxyRoblox
 docs_dir: docs
 
@@ -13,7 +13,7 @@ nav:
   - Discord Moderation Guidelines: moderation.md
 
 hooks:
-  - hooks/copyright_year.py
+  - hooks/config.py
 
 plugins:
   - search
@@ -41,16 +41,13 @@ markdown_extensions:
   - md_in_html
   - footnotes
   - tables
-  - pymdownx.blocks.details
   - pymdownx.details
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-  - pymdownx.saneheaders
   - pymdownx.magiclink
-  - pymdownx.mark
   - pymdownx.inlinehilite
   - pymdownx.snippets:
       auto_append:

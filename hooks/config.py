@@ -1,7 +1,13 @@
 from datetime import datetime
+from os import getenv
+
 from mkdocs.config.defaults import MkDocsConfig
 
+
 def on_config(config: MkDocsConfig) -> MkDocsConfig:
+    config.site_url = getenv("MKDOCS_SITE_URL", config.site_url)
+    config.edit_uri = getenv("MKDOCS_EDIT_URI", config.edit_uri)
+
     if not config.copyright:
         raise ValueError("The `copyright` option is not specified in mkdocs.yml!")
 
