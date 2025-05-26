@@ -1,0 +1,12 @@
+# Add your own guides to this file, with your GitHub username after.
+# This will automatically assign you to review pull requests for the files you claim ownership of.
+# Example:
+# docs/admin.md @Jaxumi92 @ButterDogg
+# docs/img/admin/* @Jaxumi92 @ButterDogg
+
+# If no other matches are met, this entry will automatically assign a reviewer.
+* @cswimr
+
+# Assign these to the current Mod Manager.
+docs/moderation.md @cswimr
+docs/img/moderation/* @cswimr

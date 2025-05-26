@@ -1,0 +1,112 @@
+﻿site_name: Galaxy Policies
+site_url: !ENV [SITE_URL, "https://policy.galaxy.casa"]
+repo_name: GalaxyRoblox/Policies
+repo_url: https://github.com/GalaxyRoblox/Policies
+edit_uri: !ENV [EDIT_URI, "edit/main/docs"]
+copyright: Copyright &copy; 2025, GalaxyRoblox
+docs_dir: docs
+
+site_author: GalaxyRoblox
+site_description: This website contains some of the policies used by the Galaxy staff team.
+
+nav:
+  - Discord Moderation Guidelines: moderation.md
+
+plugins:
+  - search
+  - glightbox
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
+  - group:
+      enabled: !ENV GITHUB_TOKEN
+      plugins:
+        - git-committers:
+            repository: GalaxyRoblox/Policies
+            token: !ENV GITHUB_TOKEN
+  - group:
+      enabled: !ENV CI
+      plugins:
+        - social
+        - minify:
+            minify_html: true
+            htmlmin_opts:
+              remove_comments: true
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - pymdownx.blocks.details
+  - pymdownx.details
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.saneheaders
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.inlinehilite
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - search.share
+    - toc.follow
+    - toc.integrate
+  logo: img/galaxy.png
+  favicon: img/galaxy.png
+
+watch:
+  - includes
