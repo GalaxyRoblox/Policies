@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "formulahendry.auto-rename-tag",
+    "davidanson.vscode-markdownlint",
+    "tekumara.typos-vscode",
+    "redhat.vscode-yaml"
+  ]
+}
