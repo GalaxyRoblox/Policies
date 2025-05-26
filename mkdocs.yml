@@ -3,7 +3,7 @@ site_url: !ENV [SITE_URL, "https://policy.galaxy.casa"]
 repo_name: GalaxyRoblox/Policies
 repo_url: https://github.com/GalaxyRoblox/Policies
 edit_uri: !ENV [EDIT_URI, "edit/main/docs"]
-copyright: Copyright &copy; 2025, GalaxyRoblox
+copyright: Copyright &copy; {year}, GalaxyRoblox
 docs_dir: docs
 
 site_author: GalaxyRoblox
@@ -11,6 +11,9 @@ site_description: This website contains some of the policies used by the Galaxy 
 
 nav:
   - Discord Moderation Guidelines: moderation.md
+
+hooks:
+  - hooks/copyright_year.py
 
 plugins:
   - search
@@ -108,3 +111,4 @@ theme:
 
 watch:
   - includes
+  - hooks
