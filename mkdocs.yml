@@ -85,12 +85,15 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
+  icon:
+    annotation: material/chevron-right-circle-outline
   features:
     - announce.dismiss
     - content.action.edit
     - content.action.view
     - content.code.annotate
     - content.code.copy
+    - content.code.select
     - content.tooltips
     - navigation.instant
     - navigation.instant.progress
