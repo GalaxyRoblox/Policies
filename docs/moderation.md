@@ -165,7 +165,16 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
 
 ### Improper Channel Usage
 
+- Posting messages in channels meant for a specific purpose, in a way that disregards that purpose.
+    - e.g. posting messages in `#!cpp #refund-request` that are not refunds.
+    - If this is a newer member's first offense, consider verbally warning them and deleting their messages instead of moderating them.
+
 ### DJ Role Abuse / Music Bypasses
+
+- Posting or playing excessively loud tracks.
+- Songs with the explicit intention to bypass.
+    - Songs that include a few bypasses are usually allowed as long as the context of the song is not breaking any other rules.
+- Apply the `Blacklist - DJ` role alongside normal punishment when punishing for this.
 
 ## Major Infractions
 
