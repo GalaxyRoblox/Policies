@@ -6,13 +6,18 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "mkdocs==1.6.1",
-    "mkdocs-git-committers-plugin-2>=2.5.0",
+    "mkdocs-git-committers-plugin-2==2.5.0",
     "mkdocs-git-revision-date-localized-plugin==1.4.6",
-    "mkdocs-glightbox>=0.4.0",
+    "mkdocs-glightbox==0.4.0",
     "mkdocs-material[imaging]==9.6.14",
-    "mkdocs-minify-plugin>=0.8.0",
+    "mkdocs-minify-plugin==0.8.0",
     "mkdocs-redirects==1.2.2",
 ]
 
 [dependency-groups]
-dev = ["basedpyright==1.29.2", "pre-commit==4.2.0", "ruff==0.11.11"]
+dev = [
+    "basedpyright==1.29.2",
+    "linkchecker==10.5.0",
+    "pre-commit==4.2.0",
+    "ruff==0.11.11",
+]
