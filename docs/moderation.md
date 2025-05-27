@@ -5,17 +5,19 @@ This community is based around the Roblox game [Galaxy](https://roblox.com/games
 **Trial Moderators**, direct any questions to the other Moderators. They have experience and will help to support and guide you.  
 **Moderators**, direct any questions to the Mod Manager.
 
-!!! danger "Work in Progress"
-
-    This guide is still being actively worked on, and is not quite ready yet. Report any issues to @cswim on Discord.
+/// admonition | Work in Progress
+    type: danger
+This guide is still being actively worked on, and is not quite ready yet. Report any issues to @cswim on Discord.
+///
 
 ## Trial Moderators
 
 Every Moderator begins as a Trial Moderator. It is not just a role, but a period of time in which the Mod Manager will closely oversee all of your actions and determine if you are fit to be a Moderator. This evaluation period lasts for 14 days. On the final day of your evaluation period, the Mod Manager will go through your activity and determine if you should be promoted or let go. The Mod Manager may remove you before the period is up for other reasons, such as abuse of power. Questions are to be expected from you, do not be afraid to ask for help!
 
-!!! info "Trial Moderator Permissions"
-
-    Trial Moderators do not have the required permissions to ban or kick users. Please ask a Moderator to handle that if you're certain that a particular member deserves a ban. If you cannot wait for a response, you may shortmute the rulebreaker for up to 30 minutes so they don't cause any more trouble.
+/// admonition | Trial Moderator Permissions
+    type: info
+Trial Moderators do not have the required permissions to ban or kick users. Please ask a Moderator to handle that if you're certain that a particular member deserves a ban. If you cannot wait for a response, you may shortmute the rulebreaker for up to 30 minutes so they don't cause any more trouble.
+///
 
 ## Moderators
 
@@ -48,29 +50,35 @@ When moderating a community member, you are expected to post the following infor
     - Reason for moderation
     - Duration (if applicable, e.g., for bans/mutes)
 
-??? tip "Auto Evidence Format"
+/// details | Auto Evidence Format
+    type: tip
 
-    **[Aurora](https://seacogs.csw.im/aurora "SeaCogs Documentation - Aurora")** automatically generates a pre-formatted moderation log with all required details.
+**[Aurora](https://seacogs.csw.im/aurora "SeaCogs Documentation - Aurora")** automatically generates a pre-formatted moderation log with all required details.
 
-    **How to use:**
+**How to use:**
 
-    1. After issuing a moderation action, Aurora will post a summary.
-    2. **Copy the entire message** and paste it in `#!cpp #mod-evidence`.
-    3. **Attach your evidence** (screenshots/videos) to the same message.
+1. After issuing a moderation action, Aurora will post a summary.
+2. **Copy the entire message** and paste it in `#!cpp #mod-evidence`.
+3. **Attach your evidence** (screenshots/videos) to the same message.
 
-    ![Example of auto-generated output](img/moderation/autoevidence.webp){ loading=lazy }
-    ![How to submit evidence](img/moderation/logging.webp){ loading=lazy }
+![Example of auto-generated output](img/moderation/autoevidence.webp){ loading=lazy }
+![How to submit evidence](img/moderation/logging.webp){ loading=lazy }
 
-    <h3>Extra Details</h3>
+<h3>Extra Details</h3>
 
-    - Disable Auto Evidence Format:  
-    ```prolog
-    -aurora settings overrides
-    ```
-    - Manually generate a case summary:  
-    ```prolog
-    /case case:13,729 evidenceformat:True
-    ```
+- Disable Auto Evidence Format:  
+
+```prolog
+-aurora settings overrides
+```
+
+- Manually generate a case summary:  
+
+```prolog
+/case case:13,729 evidenceformat:True
+```
+
+///
 
 ### Accountability Clause
 
@@ -111,13 +119,15 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
 </div>
 
 1. If you were given Trial Moderator on the 8th of April, your evaluation period would end on April 22nd. If you announce that you will be inactive for a week, your evaluation period will instead end on April 29th.
-2. !!! quote "[Discord Terms of Service](https://discord.com/terms/#4 "Discord Terms of Service - Your Discord Account") ("Your Discord Account")"
+2. /// admonition | [Discord Terms of Service](https://discord.com/terms/#4 "Discord Terms of Service - Your Discord Account") ("Your Discord Account")
+    type: quote
+You agree not to license, sell, lend, or transfer your account, Discord username, vanity URL, or other unique identifier without our prior written approval.
+///
 
-        You agree not to license, sell, lend, or transfer your account, Discord username, vanity URL, or other unique identifier without our prior written approval.
-
-3. !!! quote "[Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use "Roblox Terms of Use") (User Terms 2b, "Securing an Account")"
-
-        You are responsible for maintaining the confidentiality and security of any credentials used to access your Account (e.g., a username and password). You must not share or disclose such credentials to others (except for Guardians in the case of a Minor User).
+3. /// admonition | [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use "Roblox Terms of Use") (User Terms 2b, "Securing an Account")
+    type: quote
+You are responsible for maintaining the confidentiality and security of any credentials used to access your Account (e.g., a username and password). You must not share or disclose such credentials to others (except for Guardians in the case of a Minor User).
+///
 
 ## Minor Infractions
 

@@ -38,12 +38,10 @@ plugins:
 
 markdown_extensions:
   - abbr
-  - admonition
   - attr_list
   - md_in_html
   - footnotes
   - tables
-  - pymdownx.details
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
@@ -51,6 +49,8 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.magiclink
   - pymdownx.inlinehilite
+  - pymdownx.blocks.details
+  - pymdownx.blocks.admonition
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
