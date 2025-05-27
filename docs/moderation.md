@@ -25,7 +25,7 @@ After passing your Trial Moderator evaluation period, you will be given the Disc
 
 ### Duties
 
-As a Moderator, you are expected to perform the following duties when required.
+As a Moderator, you are expected to perform the following duties when required. This is on top of moderating rulebreakers.
 
 - Ranking community members who make a valid request in the `#!cpp #role-request` channel.
     - Delete their request after adding their role.
@@ -133,9 +133,9 @@ You are responsible for maintaining the confidentiality and security of any cred
 
 ### Filter Bypasses
 
-- **Automod Bypass**: Messages containing blacklisted words are blocked by a Discord Automod filter. Evading this filter warrants moderation.
-- **Self-Censoring**: Moderated if the intended word is obvious (e.g., `c**t`).
-- **Reactions/Emojis/Stickers**:
+- Messages containing blacklisted words are automatically blocked by a Discord Automod filter. Evading this filter warrants moderation.
+- Self-censoring is moderated if the intended word is obvious (e.g., `c**t`).
+- Reactions/Emojis/Stickers:
     - Combining emojis/reactions to spell out blacklisted words.
     - Using stickers with inappropriate names.
     - Apply the `Blacklist - Reactions` role alongside normal punishment if the infraction involved reactions.
