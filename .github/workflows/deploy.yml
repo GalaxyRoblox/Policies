@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup uv
         uses: astral-sh/setup-uv@v6
@@ -29,7 +31,8 @@ jobs:
         run: uv run mkdocs build
         env:
           MKDOCS_BASE_URL: https://policy.csw.im
-          MKDOCS_EDIT_URI: edit/main/docs
+          MKDOCS_EDIT_URI: edit/main/docs/
+          MKDOCS_GIT_COMMITTERS_API_KEY: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to Cloudflare Pages
         uses: andykenward/github-actions-cloudflare-pages@v2.3.2
