@@ -118,7 +118,11 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
 
 </div>
 
-1. If you were given Trial Moderator on the 8th of April, your evaluation period would end on April 22nd. If you announce that you will be inactive for a week, your evaluation period will instead end on April 29th.
+1. /// admonition
+    type: example
+If you were given Trial Moderator on the 8th of April, your evaluation period would end on April 22nd. If you announce that you will be inactive for a week, your evaluation period will instead end on April 29th.
+///
+
 2. /// admonition | [Discord Terms of Service](https://discord.com/terms/#4 "Discord Terms of Service - Your Discord Account") ("Your Discord Account")
     type: quote
 You agree not to license, sell, lend, or transfer your account, Discord username, vanity URL, or other unique identifier without our prior written approval.
