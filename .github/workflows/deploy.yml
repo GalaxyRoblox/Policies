@@ -1,0 +1,43 @@
+name: Deploy
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    permissions:
+      contents: read
+      deployments: write
+      pull-requests: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v6
+
+      - name: Install dependencies
+        run: uv sync --no-dev
+
+      - name: Build documentation
+        run: uv run mkdocs build
+        env:
+          MKDOCS_BASE_URL: https://policy.csw.im
+          MKDOCS_EDIT_URI: edit/main/docs
+
+      - name: Deploy to Cloudflare Pages
+        uses: andykenward/github-actions-cloudflare-pages@v2.3.2
+        id: pages
+        with:
+          cloudflare-api-token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          cloudflare-account-id: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
+          cloudflare-project-name: ${{ vars.CLOUDFLARE_PROJECT_NAME }}
+          directory: site
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-environment: ${{ vars.CLOUDFLARE_PROJECT_NAME }} ${{ (github.ref == 'refs/heads/main' && '(Production)') || '(Preview)' }}
