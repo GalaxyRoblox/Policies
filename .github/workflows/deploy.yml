@@ -32,7 +32,7 @@ jobs:
         run: uv run mkdocs build -v
         env:
           MKDOCS_BASE_URL: https://policy.csw.im
-          MKDOCS_EDIT_URI: edit/main/docs/
+          MKDOCS_EDIT_URI: edit/${{ github.base_ref || 'main' }}/docs/
           MKDOCS_GIT_COMMITTERS_APIKEY: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to Cloudflare Pages
