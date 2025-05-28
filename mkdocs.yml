@@ -27,10 +27,6 @@ plugins:
       enabled: !ENV CI
       plugins:
         - social
-        - git-committers:
-            repository: !ENV [GITHUB_REPOSITORY, "GalaxyRoblox/Policies"]
-            branch: !ENV [GITHUB_HEAD_REF, "main"]
-            # token: !ENV GITHUB_TOKEN
         - minify:
             minify_html: true
             htmlmin_opts:

@@ -463,20 +463,6 @@ wheels = [
 ]
 
 [[package]]
-name = "mkdocs-git-committers-plugin-2"
-version = "2.5.0"
-source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "gitpython" },
-    { name = "mkdocs" },
-    { name = "requests" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/b4/8a/4ca4fb7d17f66fa709b49744c597204ad03fb3b011c76919564843426f11/mkdocs_git_committers_plugin_2-2.5.0.tar.gz", hash = "sha256:a01f17369e79ca28651681cddf212770e646e6191954bad884ca3067316aae60", size = 15183, upload-time = "2025-01-30T07:30:48.667Z" }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/8e/f5/768590251839a148c188d64779b809bde0e78a306295c18fc29d7fc71ce1/mkdocs_git_committers_plugin_2-2.5.0-py3-none-any.whl", hash = "sha256:1778becf98ccdc5fac809ac7b62cf01d3c67d6e8432723dffbb823307d1193c4", size = 11788, upload-time = "2025-01-30T07:30:45.748Z" },
-]
-
-[[package]]
 name = "mkdocs-git-revision-date-localized-plugin"
 version = "1.4.6"
 source = { registry = "https://pypi.org/simple" }
@@ -672,7 +658,6 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "mkdocs" },
-    { name = "mkdocs-git-committers-plugin-2" },
     { name = "mkdocs-git-revision-date-localized-plugin" },
     { name = "mkdocs-glightbox" },
     { name = "mkdocs-material", extra = ["imaging"] },
@@ -691,7 +676,6 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "mkdocs", specifier = "==1.6.1" },
-    { name = "mkdocs-git-committers-plugin-2", specifier = "==2.5.0" },
     { name = "mkdocs-git-revision-date-localized-plugin", specifier = "==1.4.6" },
     { name = "mkdocs-glightbox", specifier = "==0.4.0" },
     { name = "mkdocs-material", extras = ["imaging"], specifier = "==9.6.14" },

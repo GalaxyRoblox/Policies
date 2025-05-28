@@ -33,7 +33,6 @@ jobs:
         env:
           MKDOCS_BASE_URL: https://policy.csw.im
           MKDOCS_EDIT_URI: edit/${{ github.base_ref || 'main' }}/docs/
-          MKDOCS_GIT_COMMITTERS_APIKEY: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy to Cloudflare Pages
         uses: andykenward/github-actions-cloudflare-pages@v2.3.2
