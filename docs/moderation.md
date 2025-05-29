@@ -154,7 +154,7 @@ You are responsible for maintaining the confidentiality and security of any cred
 
 - Excessive, repetitive messages or meaningless spam.
     - Do not moderate for walls of text with clear intent (not copypastas).
-    - If spam spans multiple channels excessively, treat as [Raiding](#raiding).
+    - If spam spans multiple channels excessively, treat as [Raiding](#raiding "Forbidden - Raiding").
 
 ### NSFW References / Borderline Racism
 
@@ -194,21 +194,46 @@ You are responsible for maintaining the confidentiality and security of any cred
 
 ### Racism / Discrimination
 
-### Encouraging Self Harm or Illegal Actions
+- Glorifying radical political events in a purposeful attempt to incite disruptions or drama.
+- Attacking another community member based on attributes such as their race, national origin, ethnicity, sexual orientation, gender, sex, religious affiliations or disabilities.
 
-### Suicide References
+### Encouraging Illegal Actions
+
+- Encouraging other community members to commit an illegal action.
+    - This includes discussing topics such as drug abuse and underage drinking when those discussions are explicitly encouraging those acts.
+    - This is specifically for illegal actions, i.e. actions that violate the law in the country that the victim is in. If the victim's country is unknown, use US law. Use [Violating Discord Terms of Service / Community Guidelines](#violating-discord-terms-of-service--community-guidelines "Forbidden - Violating Terms of Service / Community Guidelines") for Terms of Service violations.
+
+### Self Harm References
+
+- Referencing the act of self harm or suicide without explicitly encouraging it.
+    - Discussing someone who committed suicide in a respectful context is not a self harm reference. However, making jokes about them is.
+    - This is usually invoked for common jokes such as "kys" when those jokes have no target.
+    - If someone is being explicitly told to commit self harm or suicide, moderate the encourager under [Encouraging Self Harm](#encouraging-self-harm "Forbidden - Encouraging Self Harm") instead.
 
 ### Targeted Harassment
 
+- Toxicity that surpasses what could reasonably be considered a [minor infraction](#toxicity--trolling "Minor - Toxicity / Trolling").
+    - Repeated harassment towards another community member, or harassment in DMs.
+
 ### Exploits / Harmless Malicious Intentions
 
+- Encouraging people to buy, use, or sell exploits for Galaxy or other games, regardless of platform.
+    - Additionally, this includes posting and distributing exploits, exploit injectors, and illegal macros. These terms will be more thoroughly defined in the Admin Guidelines. <!-- TODO: Update this with a hyperlink to the admin guidelines whenever they're finished (@cswimr) -->
+- Posting files, urls, or other content that is considered suspicious, such as:
+    - Videos or images that crash Discord
+    - Files that cause a false-positive antivirus detection
+- Use [Virustotal](https://www.virustotal.com/ "Virustotal - Analyze suspicious files, domains, IPs, and URLs to detect malware and other breaches, automatically share them with the security community.") to analyze suspicious files or URLs to determine if the link sent is suspicious before moderating.
+
 ### Rioting
+
+- Continued disruptive rioting taking place after the rioters are told to stop. See the Bandwagon policy, usually cases will fall under that policy before they fall under this one. <!-- TODO: Update this with a hyperlink to the bandwagon policy (or remove this outright) after I complete those [#8](https://github.com/GalaxyRoblox/Policies/issues/8) (@cswimr) -->
+    - If the rioting is too difficult to control, you may ask an Admin to slowmode the channel that the rioting is taking place in.
 
 ## Forbidden Infractions
 
 ### Leaking Personal Information ("Doxxing")
 
-### Encouraging Suicide
+### Encouraging Self Harm
 
 ### Sadistic Gore
 
@@ -238,4 +263,4 @@ You are responsible for maintaining the confidentiality and security of any cred
 - Users who are banned for breaking the Discord ToS / CG should always be reported to Discord, either through right-clicking the offending message and clicking **`Report`**, or sending a report through Discord's [support portal](https://dis.gd/request "Discord Support - Submit a request").
 
 <!-- markdownlint-disable-next-line no-space-in-emphasis -->
-*[Self-Censoring]: Using other characters such as * in place of characters of filtered words, in order to bypass the filter.
+*[Self-censoring]: Using other characters such as * in place of characters of filtered words, in order to bypass the filter.
