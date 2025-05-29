@@ -111,6 +111,18 @@ theme:
   logo: img/galaxy.png
   favicon: img/galaxy.png
 
+extra:
+  social:
+    - icon: simple/roblox
+      link: https://www.roblox.com/games/12426862174
+      name: Play Galaxy on Roblox!
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/robloxgalaxy
+      name: Join the official Galaxy Discord server!
+    - icon: simple/miraheze
+      link: https://wiki.galaxy.casa
+      name: Galaxypedia - The official Galaxy wiki!
+
 watch:
   - includes
   - hooks
