@@ -6,6 +6,8 @@ from mkdocs.config.defaults import MkDocsConfig
 
 def on_config(config: MkDocsConfig) -> MkDocsConfig:
     config.site_url = getenv("MKDOCS_SITE_URL", config.site_url)
+    config.repo_name = getenv("MKDOCS_REPO_NAME", config.repo_name)
+    config.repo_url = getenv("MKDOCS_REPO_URL", config.repo_url)
     config.edit_uri = getenv("MKDOCS_EDIT_URI", config.edit_uri)
 
     if not config.copyright:
