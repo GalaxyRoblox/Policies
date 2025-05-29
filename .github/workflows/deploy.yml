@@ -22,12 +22,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Install packages
-        uses: amitie10g/install-package@v1
-        with:
-          apt: pngquant libcairo2-dev libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev
-          brew: pngquant cairo freetype libffi libjpeg libpng zlib
-
       - name: Setup uv
         uses: astral-sh/setup-uv@v6
 
