@@ -21,12 +21,15 @@ plugins:
   - search
   - glightbox
   - git-revision-date-localized:
+      enabled: !ENV [MKDOCS_GIT_REVISION_DATE, true]
       enable_creation_date: true
+      fallback_to_build_date: true
       type: timeago
   - group:
       enabled: !ENV CI
       plugins:
         - social
+        - privacy
         - minify:
             minify_html: true
             htmlmin_opts:
@@ -85,6 +88,7 @@ theme:
         name: Switch to light mode
   icon:
     annotation: material/chevron-right-circle-outline
+    repo: fontawesome/brands/github
   features:
     - announce.dismiss
     - content.action.edit
