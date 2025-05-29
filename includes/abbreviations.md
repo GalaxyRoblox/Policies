@@ -12,3 +12,9 @@
 *[DM]: Discord Manager
 *[LA]: Lead Admin
 *[MM]: Mod Manager
+
+*[US]: United States of America
+*[USA]: United States of America
+*[UK]: United Kingdom
+
+*[DMs]: Direct Messages
