@@ -1,8 +1,8 @@
 ﻿site_name: Galaxy Policies
-site_url: "https://policy.galaxy.casa"
-repo_name: GalaxyRoblox/Policies
-repo_url: https://github.com/GalaxyRoblox/Policies
-edit_uri: "edit/main/docs"
+site_url: !ENV [MKDOCS_SITE_URL, "https://policy.galaxy.casa"]
+repo_name: !ENV [MKDOCS_REPO_NAME, "GalaxyRoblox/Policies"]
+repo_url: !ENV [MKDOCS_REPO_URL, "https://github.com/GalaxyRoblox/Policies"]
+edit_uri: !ENV [MKDOCS_EDIT_URI, "edit/main/docs"]
 copyright: Copyright &copy; {year}, GalaxyRoblox
 docs_dir: docs
 
