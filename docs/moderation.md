@@ -1,6 +1,6 @@
 # Galaxy Discord Moderation Guidelines
 
-This community is based around the Roblox game [Galaxy](https://roblox.com/games/12426862174 "Roblox - Galaxy"). This means that our standards on the Discord cannot be any lower than our standards in-game. You are expected to be professional, independent and mature. Your job is to enforce rules, and these guidelines will explain how.
+This community is based around the Roblox game **[Galaxy](https://roblox.com/games/12426862174 "Roblox - Galaxy")**. This means that our standards on the Discord cannot be any lower than our standards in-game. You are expected to be professional, independent and mature. Your job is to enforce rules, and these guidelines will explain how.
 
 **Trial Moderators**, direct any questions to the other Moderators. They have experience and will help to support and guide you.  
 **Moderators**, direct any questions to the Mod Manager.
@@ -33,7 +33,7 @@ As a Moderator, you are expected to perform the following duties when required. 
     - The advertised Discord server does not contain any content that breaks the Galaxy discord server's rules in any channels that can be seen immediately after joining or after some variety of verification process. Channels containing NSFW content are allowed **only if they are marked as Age-Restricted channels within Discord.**
     - The advertised Discord server is not a community server for another game, and it does not claim to be one.
     - The advertised Discord server is in some way related to Galaxy, whether it's a Galaxy clan or just a group of players who play Galaxy.
-- Helping community members within [Support Server](https://discord.gg/ShWshkhYhZ "Join the Galaxy Support server on Discord") Tickets.
+- Helping community members within **[Support Server](https://discord.gg/ShWshkhYhZ "Join the Galaxy Support server on Discord")** Tickets.
 
 ### Logging Moderations
 
@@ -41,7 +41,7 @@ When moderating a community member, you are expected to post the following infor
 
 - **Evidence:** Image/video proof of the infraction
     - If the infraction occurred in a voice chat, you must have a video or audio recording of the infraction.
-    - If the evidence violates the Discord [Terms of Service](https://discord.com/terms "Discord Terms of Service") or [Community Guidelines](https://discord.com/guidelines "Discord Community Guidelines"), **do not** post it in the `#!cpp #mod-evidence` channel. This includes things such as NSFW content, as the `#!cpp #mod-evidence` channel is not an Age-Restricted channel.
+    - If the evidence violates the Discord **[Terms of Service](https://discord.com/terms "Discord Terms of Service")** or **[Community Guidelines](https://discord.com/guidelines "Discord Community Guidelines")**, **do not** post it in the `#!cpp #mod-evidence` channel. This includes things such as NSFW content, as the `#!cpp #mod-evidence` channel is not an Age-Restricted channel.
     - Not providing evidence for a moderation, unless it is a ToS / CG violation, means that the moderation is invalid and may be reverted at the Mod Manager's discretion.
 - **Details:**
     - Aurora case ID
@@ -123,12 +123,12 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
 If you were given Trial Moderator on the 8th of April, your evaluation period would end on April 22nd. If you announce that you will be inactive for a week, your evaluation period will instead end on April 29th.
 ///
 
-2. /// admonition | [Discord Terms of Service](https://discord.com/terms/#4 "Discord Terms of Service - Your Discord Account") ("Your Discord Account")
+2. /// admonition | **[Discord Terms of Service](https://discord.com/terms/#4 "Discord Terms of Service - Your Discord Account")** ("Your Discord Account")
     type: quote
 *You agree not to license, sell, lend, or transfer your account, Discord username, vanity URL, or other unique identifier without our prior written approval.*
 ///
 
-3. /// admonition | [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use "Roblox Terms of Use") (User Terms 2b, "Securing an Account")
+3. /// admonition | **[Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use "Roblox Terms of Use")** (User Terms 2b, "Securing an Account")
     type: quote
 *You are responsible for maintaining the confidentiality and security of any credentials used to access your Account (e.g., a username and password). You must not share or disclose such credentials to others (except for Guardians in the case of a Minor User).*
 ///
@@ -170,7 +170,7 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 
 - Advertising is not allowed if the content being advertised is another Discord server or if the content being advertised is unsafe for children, malicious, or breaks other rules.
     - If content violates the Terms of Service of the service it was posted on, report it to that service.
-- Community members may submit a Discord server to `#!cpp #group-advertising` by creating a general support ticket in the [Support Server](https://discord.gg/ShWshkhYhZ "Join the Galaxy Support server on Discord"). See [Duties](#duties "Moderators - Duties").
+- Community members may submit a Discord server to `#!cpp #group-advertising` by creating a general support ticket in the **[Support Server](https://discord.gg/ShWshkhYhZ "Join the Galaxy Support server on Discord")**. See *[Duties](#duties "Moderators - Duties")*.
 
 ### Mention Spamming / Ghost Pinging
 
@@ -222,7 +222,7 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 - Posting files, urls, or other content that is considered suspicious, such as:
     - Videos or images that crash Discord
     - Files that cause a false-positive antivirus detection
-- Use [Virustotal](https://www.virustotal.com/ "Virustotal - Analyze suspicious files, domains, IPs, and URLs to detect malware and other breaches, automatically share them with the security community.") to analyze suspicious files or URLs to determine if the link sent is suspicious before moderating.
+- Use **[Virustotal](https://www.virustotal.com/ "Virustotal - Analyze suspicious files, domains, IPs, and URLs to detect malware and other breaches, automatically share them with the security community.")** to analyze suspicious files or URLs to determine if the link sent is suspicious before moderating.
 
 ### Rioting
 
@@ -257,10 +257,10 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 
 ### Violating Discord Terms of Service / Community Guidelines
 
-- If a community member violates the Discord [Terms of Service](https://discord.com/terms "Discord Terms of Service") or [Community Guidelines](https://discord.com/guidelines "Discord Community Guidelines"), they should be permanently banned.
+- If a community member violates the Discord **[Terms of Service](https://discord.com/terms "Discord Terms of Service")** or **[Community Guidelines](https://discord.com/guidelines "Discord Community Guidelines")**, they should be permanently banned.
     - This also includes banning underage users (<13).
     - We do not punish client modification users. This is because Discord themselves do not punish users or developers of client modifications.
-- Users who are banned for breaking the Discord ToS / CG should always be reported to Discord, either through right-clicking the offending message and clicking **`Report`**, or sending a report through Discord's [support portal](https://dis.gd/request "Discord Support - Submit a request").
+- Users who are banned for breaking the Discord ToS / CG should always be reported to Discord, either through right-clicking the offending message and clicking **`Report`**, or sending a report through Discord's **[support portal](https://dis.gd/request "Discord Support - Submit a request")**.
 
 <!-- markdownlint-disable-next-line no-space-in-emphasis -->
 *[Self-censoring]: Using other characters such as * in place of characters of filtered words, in order to bypass the filter.
