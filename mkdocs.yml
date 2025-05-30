@@ -70,6 +70,9 @@ markdown_extensions:
 
 theme:
   name: material
+  font:
+    text: Comfortaa
+    code: Roboto Code
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
