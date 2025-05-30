@@ -170,7 +170,7 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 
 - Advertising is not allowed if the content being advertised is another Discord server or if the content being advertised is unsafe for children, malicious, or breaks other rules.
     - If content violates the Terms of Service of the service it was posted on, report it to that service.
-- Community members may submit a Discord server to `#!cpp #group-advertising` by creating a general support ticket in the **[Support Server](https://discord.gg/ShWshkhYhZ "Join the Galaxy Support server on Discord")**. See *[Duties](#duties "Moderators - Duties")*.
+- Community members may submit a Discord server to `#!cpp #group-advertising` by creating a general support ticket in the **[Support Server](https://discord.gg/ShWshkhYhZ "Join the Galaxy Support server on Discord")**. See [Duties](#duties "Moderators - Duties").
 
 ### Mention Spamming / Ghost Pinging
 
