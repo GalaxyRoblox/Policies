@@ -125,12 +125,12 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 
 2. /// admonition | [Discord Terms of Service](https://discord.com/terms/#4 "Discord Terms of Service - Your Discord Account") ("Your Discord Account")
     type: quote
-You agree not to license, sell, lend, or transfer your account, Discord username, vanity URL, or other unique identifier without our prior written approval.
+*You agree not to license, sell, lend, or transfer your account, Discord username, vanity URL, or other unique identifier without our prior written approval.*
 ///
 
 3. /// admonition | [Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use "Roblox Terms of Use") (User Terms 2b, "Securing an Account")
     type: quote
-You are responsible for maintaining the confidentiality and security of any credentials used to access your Account (e.g., a username and password). You must not share or disclose such credentials to others (except for Guardians in the case of a Minor User).
+*You are responsible for maintaining the confidentiality and security of any credentials used to access your Account (e.g., a username and password). You must not share or disclose such credentials to others (except for Guardians in the case of a Minor User).*
 ///
 
 ## Minor Infractions
