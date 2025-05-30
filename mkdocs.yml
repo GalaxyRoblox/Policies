@@ -14,7 +14,7 @@ nav:
   - Discord Moderation Guidelines: moderation.md
 
 hooks:
-  - hooks/config.py
+  - hooks/copyright.py
   - hooks/slug_replacer.py
 
 plugins:
@@ -26,7 +26,7 @@ plugins:
       fallback_to_build_date: true
       type: timeago
   - group:
-      enabled: !ENV CI
+      enabled: !ENV [CI, false]
       plugins:
         - social
         - privacy
