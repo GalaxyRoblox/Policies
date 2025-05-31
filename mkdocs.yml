@@ -12,7 +12,7 @@ site_description: This website contains some of the policies used by the Galaxy 
 nav:
   - index.md
   - Discord Moderation Guidelines: moderation.md
-  - Admin Guidelines: admin.md
+  - Administrator Guidelines: admin.md
 
 hooks:
   - hooks/copyright.py
