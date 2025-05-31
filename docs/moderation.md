@@ -231,7 +231,19 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 
 ## Forbidden Infractions
 
-### Leaking Personal Information ("Doxxing")
+### Leaking Personally Identifiable Information ("Doxxing")
+
+- Leaking another community member's personal information without their express, explicit consent.
+    - This includes but is not limited to:
+        - Photos of the victim's likeness
+        - Legal name
+        - Physical address
+        - ZIP code
+        - IP address
+- Doxxing bans are **unappealable**, unless the community member who was doxxed feels comfortable with allowing the offender back into the server. In this case, the ban becomes appelable, but the offender must still follow the normal appeals process. This includes waiting the standard **6 months** for Forbidden offenses, and getting their appeal accepted by the Mod Manager.
+    - In specific cases, the Mod Manager **may** waive the 6 month waiting period.
+    - If the victim who was doxxed is unknown, the Mod Manager **may** waive the requirement for the offender to obtain forgiveness from the victim.
+<!-- TODO: consider moving the doxxing ban appeals policy after [#6](https://github.com/GalaxyRoblox/Policies/issues/6) is done (@cswimr) -->
 
 ### Encouraging Self Harm
 
@@ -240,6 +252,16 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 ### Alt Account Loopholes
 
 ### Discord Profile Violations
+
+- Users whose profile pictures, statuses, "About Me" sections, clan tags, banners, or other publicly visible Discord profile elements violate server rules.
+    - If the violation is a Minor or Major Infraction:
+        - The offender must be verbally warned in the channel they are active in to change the offending content.
+        - If the offender refuses or ignores the warning, they will receive a permanent ban.
+        - Once the violation is removed from the offender's profile, they may request an unban by creating a ticket in the **[Support Server](https://discord.gg/ShWshkhYhZ "Join the Galaxy Support server on Discord")**. Note that this is not considered an appeal and does not need the Mod Manager's approval.
+    - If the violation is a Forbidden Infraction:
+        - The offender must be immediately banned. No preceding warning is required, and no unbans will be issued once the content is removed.
+        - Inform the Discord Manager of the situation and provide them with the user ID of the offending user. The Discord Manager may prune the offender's messages to reduce exposure, if necessary.
+    - New accounts or low-activity members should be investigated for alt-account evasion.
 
 ### Pornography
 
