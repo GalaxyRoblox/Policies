@@ -75,6 +75,11 @@
             }
             { package = act; }
             { package = pre-commit; }
+            { package = typos; }
+            {
+              package = nixfmt-rfc-style;
+              name = "nixfmt";
+            }
             {
               name = "reset-pre-commit-flag";
               command = ''rm -v "$PRJ_DATA_DIR/.pre-commit-enabled" && pre-commit uninstall && direnv reload'';
