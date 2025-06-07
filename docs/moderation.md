@@ -226,6 +226,7 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 - Posting files, urls, or other content that is considered suspicious, such as:
     - Videos or images that crash Discord
     - Files that cause a false-positive antivirus detection
+- If a posted file is actively malicious, moderate under [Illegal or Malicious Links](#illegal-or-malicious-links--piracy "Forbidden - Illegal or Malicious Links").
 - Use **[Virustotal](https://www.virustotal.com/ "Virustotal - Analyze suspicious files, domains, IPs, and URLs to detect malware and other breaches, automatically share them with the security community.")** to analyze suspicious files or URLs to determine if the link sent is suspicious before moderating.
 
 ### Rioting
@@ -251,9 +252,17 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 
 ### Encouraging Self Harm
 
-### Sadistic Gore
+- Encouraging another community member to harm themselves or commit suicide.
+    - This includes **targeted** [Self Harm References](#self-harm-references "Major - Self Harm References").
+    - Targeting is determined by the following things:
+        - Replying to another member's message.
+        - Mentioning another member.
+        - Otherwise making it clearly obvious that the offending comment is targeted at someone, i.e. using their name.
 
-### Alt Account Loopholes
+### Alternate Account Loopholes
+
+- Using an alternate Discord account to bypass a moderation action.
+    - If the alternate account has not broken any rules and is not linked to a user who has previously broken this policy, they may stay as long as they are not being disruptive.
 
 ### Discord Profile Violations
 
@@ -267,19 +276,26 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
         - Inform the Discord Manager of the situation and provide them with the user ID of the offending user. The Discord Manager may prune the offender's messages to reduce exposure, if necessary.
     - New accounts or low-activity members should be investigated for alt-account evasion.
 
-### Pornography
+### NSFW Content
 
-### Child Pornography
+- Discussing sexual topics beyond the level where an [NSFW Reference](#nsfw-references--borderline-racism "Minor - NSFW References") moderation is applicable.
+    - e.g. Discussing the results of your Jerkmate Ranked tournament. <!-- (☠️) -->
+- Posting pornograpahic content or content depicting gore.
 
 ### Roblox Account Selling
 
-### Inappropriate Discord Servers
-
-<!-- TODO: Move this under the `#duties` section. (@cswimr) -->
+- Discussing the act of purchasing or selling Roblox accounts.
+    - No proof of transaction is required for an offender to be moderated.
+    - If the offender is obviously joking about purchasing or selling a Roblox account, they should not be moderated.
 
 ### Illegal or Malicious Links / Piracy
 
+- Posting pirate content, or links to obtain it.
+- Posting actively malicious content (e.g. malware) meant to harm other community members.
+
 ### Raiding
+
+- Purposefully flooding one or more channels with content with the intention to cause channel-wide or server-wide disruptions.
 
 ### Violating Discord Terms of Service / Community Guidelines
 
