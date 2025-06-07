@@ -30,9 +30,13 @@ As a Moderator, you are expected to perform the following duties when required. 
 - Ranking community members who make a valid request in the `#!cpp #role-request` channel.
     - Delete their request after adding their role.
 - Posting advertisements in the `#!cpp #group-advertising` channel, assuming the following criteria are met.
-    - The advertised Discord server does not contain any content that breaks the Galaxy discord server's rules in any channels that can be seen immediately after joining or after some variety of verification process. Channels containing NSFW content are allowed **only if they are marked as Age-Restricted channels within Discord.**
-    - The advertised Discord server is not a community server for another game, and it does not claim to be one.
-    - The advertised Discord server is in some way related to Galaxy, whether it's a Galaxy clan or just a group of players who play Galaxy.
+    - The advertised Discord server:
+        - **must not** contain any content that breaks the Galaxy discord server's rules in any channels that can be seen immediately after joining or after some variety of verification process. Channels containing NSFW content are allowed **only if they are marked as Age-Restricted channels within Discord.**
+        - **must not** be a community server for another game, and **must not** not claim to be one.
+        - **must be** in some way related to Galaxy, whether it's a Galaxy clan or just a group of players who play Galaxy.
+        - **must not** be promoting a scam.
+        - **must not** encourage the use of or sell exploits or other cheat software / scripts.
+        - **must not** be in violation of the Discord **[Terms of Service](https://discord.com/terms "Discord Terms of Service")** or **[Community Guidelines](https://discord.com/guidelines "Discord Community Guidelines")**.
 - Helping community members within **[Support Server](https://discord.gg/ShWshkhYhZ "Join the Galaxy Support server on Discord")** Tickets.
 
 ### Logging Moderations
