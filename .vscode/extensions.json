@@ -5,8 +5,6 @@
     "davidanson.vscode-markdownlint",
     "tekumara.typos-vscode",
     "redhat.vscode-yaml",
-    "editorconfig.editorconfig",
-    "mkhl.direnv",
-    "jnoortheen.nix-ide"
+    "editorconfig.editorconfig"
   ]
 }
