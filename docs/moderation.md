@@ -172,10 +172,10 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
     - If content violates the Terms of Service of the service it was posted on, report it to that service.
 - Community members may submit a Discord server to `#!cpp #group-advertising` by creating a general support ticket in the **[Support Server](https://discord.gg/ShWshkhYhZ "Join the Galaxy Support server on Discord")**. See [Duties](#duties "Moderators - Duties").
 
-### Mention Spamming / Ghost Pinging
+### Mention Spamming / Ghost Mentioning
 
 - Mentioning ≥4 users or repeat mentions.
-- Ghost pinging after verbal warnings (from other users/staff).
+- Ghost mentioning after verbal warnings (from other users/staff).
 
 ### Improper Channel Usage
 
