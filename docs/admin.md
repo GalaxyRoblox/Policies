@@ -47,7 +47,122 @@ Galaxy was first introduced to Roblox on 1/13/2015 and with it, has seen a long 
 - Original Game Owner
     - The original creator of Galaxy, this role is reserved only for rcouret. (test)
 
+## Ingame Rules Currently Enforced
+- 1: Follow the Roblox TOS
+- 1a: TBD
+- 2: Placeholder
+- 3: Placeholder
+- 4: Placeholder
+- 5: Placeholder
+- 6: Placeholder
+- 7: Placeholder
+- 8: Placeholder
+- 9: Placeholder
+- 10: Placeholder
+- 11: Placeholder
+- 12: Placeholder
+- 13: Placeholder
+- 14: Placeholder
 
-- TEST CHANGE
-## 11
-# 41
+
+## The Moderating System
+
+The new moderation system will run differently than before. There are two different variants to the system, one is for ingame actions, and the other is for the chat. Every person will have essentially a twenty (20) point limit on both systems, where certain infractions generate more than others. These points drop off after a certain amount of time, except in more serious cases such as the Forbidden Violations. At a certain level of points, you will receive warnings for your actions. Then you’ll receive bans, and ultimately permanent bans. There will no longer be a procedure of essentially going back and forth between moderation types. Instead, they’ll all accumulate towards a collective score.
+
+All users will have a 20 point limit on ingame infractions, and chat infractions. Four points drop off after 4 weeks once the most recent infraction runs its course (ie 14d ban starts and ends, the timer begins.)
+
+Minor Infractions of both types will incur one (1) point.
+Major Infractions of both types will incur five (5) points.
+
+Ingame Points: 1 (Warning), 5 (3d Ban), 12 (7d Ban), 16 (14d Ban) 18 (Perm Ban, Appealable), 20 (Perm Ban, Unappealable)
+
+Chat Violations: 1 (Warning), 5 (3d Chat Ban), 10 (7d Chat Ban), 15 (14d Chat Ban), 18 (Perm Ban, Appealable), 20 (Perm Ban, Unappealable)
+Minor Infractions
+
+## Minor infractions are small-scale issues that do not require admins to be present to handle, though they can handle the issue afterwards. 
+
+Some infractions, but not limited to, are the following:
+- Chat Flood
+- Accidental Dock Block
+- Bypassing Chat Filter
+- NSFW References
+- Warp Ramming
+-
+-
+-
+
+## Major Infractions
+
+ These infractions have a more serious impact on gameplay, oftentimes requiring direct admin involvement to remedy, such as deliberate dock block resulting in death, harassment, self-harm encouragement, and more.
+
+Some Examples of this list are as follows, but are not limited to:
+- Deliberate Dock Block
+- Harassment
+- Bullying
+- Suicide Encouragement
+- NSFW Messages (Not References, actual NSFW)
+- NSFW Advertisements
+- NSFW Team names
+- 
+- 
+- 
+- 
+## Forbidden Infractions
+
+ These are the worst offenses one could commit, and they almost always result in immediate, unappealable permanent bans. They can also result in chase bans that are unappealable.
+
+Some examples, but not limited to, are as follows:
+- Doxxing
+- Black Marketing Accounts
+- Sending Unsolicited Gore
+- Breaking Roblox TOS
+- Breaking Discord TOS (In certain areas only, such as selling exploits)
+- Phishing
+- Account Data Theft
+- 
+- 
+- 
+- 
+- 
+## Variable Infractions
+
+ Placeholder
+## Variable Infractions Explained
+
+ Placeholder
+## The Old and Current Known Exploits
+
+
+ Placeholder
+
+
+## Refunding Procedures
+
+Refunds are a common place within the Galaxy/Support Discord, and admins will process them whenever they have free time and are up for it. Refunds pending by community members are not open to be commented on by other players with the exception of adding new evidence to further support the refund, and should be done so via a reply. Staff may reply asking for information or comment on the refund in a professional manner. However, staff prefer the refund to have all evidence in a single message for easy logging.
+
+For a refund to be accepted, it must have the server version and map fully visible at all times, including the proof of why a refund should take place. I.E. A Frostpocalypse is being dockblocked, the full screen shall be shown so that staff can effectively determine the outcome while limiting possibilities of falsified evidence being present.
+
+Here’s a short list of possible reasons a refund could be processed also known as accepted, though a more concise list is on the page dedicated to Refund Reasons.
+
+1: Dock block
+2: Disconnected
+3: Bugs
+4: Flings
+
+All accepted/denied videos must be logged publicly with all relevant information, as well as in the proper admin channels dedicated to them. All commands must also be logged. 
+
+In certain cases, the AD/LA may determine a refund can be accepted/denied but the evidence is not posted. These are because of serious issues such as potential self doxes or other reasons along the same lines. This will be listed in the reasoning as well.
+
+## Account Resets
+When users are caught using an exploit known as Automining, they are permanently banned. The only way to truly appeal this ban is via an account reset, applicable only by the LA and AD. This means ALL ACCOUNT DATA ON GALAXY is wiped, and you start anew with only the starting ships and warehouse. However this isn’t only just a punishment. Sometimes users just want to start anew, with this they can request a quick and simple account wipe, and they start from scratch.
+
+## Account Transfers
+Account transfers are as the name suggests, the transfer of one’s data account (further known as transferer) to another account (further known as transferee). To process this, either the transferer or transferee must purchase the “Account Transfer” gamepass for its fee and then make an AD/Account Transfer ticket in the support server. If the transferer or transferee do not own both accounts involved, the AD and LA are responsible for ensuring both account owners are present and give consent with full understanding that all data is transferred over and the transferer account will be back to day one in terms of stats. Account Transfers are private and may not be leaked by staff unless the transferer/transferee reveal it themselves. Any duplicated info (i.e. both accounts have a Galaxy) is lost permanently as it will simply cease to exist, so be sure to try to avoid it if at all possible. Something worth noting is that the Admin Director is capable of denying account transfers if they feel it suspicious or any other possible issue. When you buy the account transfer, you have already agreed to that disclaimer.
+
+In the case of a falsified Account Transfer, i.e. someone steals the account or claims ownership but does not actually own it, the transferer will be fully banned with no appeal, and the transfer is reversed.
+Common Accepted/Denied Refund Reasons
+Placeholder
+
+
+## Disconnection Refunds
+
