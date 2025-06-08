@@ -48,21 +48,20 @@ Galaxy was first introduced to Roblox on 1/13/2015 and with it, has seen a long 
     - The original creator of Galaxy, this role is reserved only for rcouret. (test)
 
 ## Ingame Rules Currently Enforced
-- 1: Follow the Roblox TOS
-- 1a: TBD
-- 2: Placeholder
-- 3: Placeholder
-- 4: Placeholder
-- 5: Placeholder
-- 6: Placeholder
-- 7: Placeholder
-- 8: Placeholder
-- 9: Placeholder
-- 10: Placeholder
-- 11: Placeholder
-- 12: Placeholder
-- 13: Placeholder
-- 14: Placeholder
+1. Follow the Roblox TOS
+2. Placeholder
+3. Placeholder
+4. Placeholder
+5. Placeholder
+6. Placeholder
+7. Placeholder
+8. Placeholder
+9. Placeholder
+10. Placeholder
+11. Placeholder
+12. Placeholder
+13. Placeholder
+14. Placeholder
 
 
 ## The Moderating System
