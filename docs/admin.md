@@ -79,7 +79,9 @@ Ingame Points: 1 (Warning), 5 (3d Ban), 12 (7d Ban), 16 (14d Ban) 18 (Perm Ban, 
 Chat Violations: 1 (Warning), 5 (3d Chat Ban), 10 (7d Chat Ban), 15 (14d Chat Ban), 18 (Perm Ban, Appealable), 20 (Perm Ban, Unappealable)
 Minor Infractions
 
-## Minor infractions are small-scale issues that do not require admins to be present to handle, though they can handle the issue afterwards. 
+## Minor infractions
+
+Minor infractions are small-scale issues that do not require admins to be present to handle, though they can handle the issue afterwards. 
 
  Some infractions, but not limited to, are the following:
 
@@ -88,9 +90,7 @@ Minor Infractions
 - Bypassing Chat Filter
 - NSFW References
 - Warp Ramming
--
--
--
+
 ## Major Infractions
 
  These infractions have a more serious impact on gameplay, oftentimes requiring direct admin involvement to remedy, such as deliberate dock block resulting in death, harassment, self-harm encouragement, and more.
@@ -108,6 +108,7 @@ Some Examples of this list are as follows, but are not limited to:
 - 
 - 
 - 
+
 ## Forbidden Infractions
 
  These are the worst offenses one could commit, and they almost always result in immediate, unappealable permanent bans. They can also result in chase bans that are unappealable.
@@ -126,6 +127,7 @@ Some examples, but not limited to, are as follows:
 - 
 - 
 - 
+
 ## Variable Infractions
 
  Placeholder
