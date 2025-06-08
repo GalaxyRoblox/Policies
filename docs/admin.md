@@ -82,6 +82,7 @@ Minor Infractions
 ## Minor infractions are small-scale issues that do not require admins to be present to handle, though they can handle the issue afterwards. 
 
  Some infractions, but not limited to, are the following:
+
 - Chat Flood
 - Accidental Dock Block
 - Bypassing Chat Filter
@@ -96,6 +97,7 @@ Minor Infractions
  These infractions have a more serious impact on gameplay, oftentimes requiring direct admin involvement to remedy, such as deliberate dock block resulting in death, harassment, self-harm encouragement, and more.
 
 Some Examples of this list are as follows, but are not limited to:
+
 - Deliberate Dock Block
 - Harassment
 - Bullying
@@ -112,6 +114,7 @@ Some Examples of this list are as follows, but are not limited to:
  These are the worst offenses one could commit, and they almost always result in immediate, unappealable permanent bans. They can also result in chase bans that are unappealable.
 
 Some examples, but not limited to, are as follows:
+
 - Doxxing
 - Black Marketing Accounts
 - Sending Unsolicited Gore
