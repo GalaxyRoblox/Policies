@@ -104,10 +104,6 @@ Some Examples of this list are as follows, but are not limited to:
 - NSFW Messages (Not References, actual NSFW)
 - NSFW Advertisements
 - NSFW Team names
-- 
-- 
-- 
-- 
 
 ## Forbidden Infractions
 
@@ -122,11 +118,6 @@ Some examples, but not limited to, are as follows:
 - Breaking Discord TOS (In certain areas only, such as selling exploits)
 - Phishing
 - Account Data Theft
-- 
-- 
-- 
-- 
-- 
 
 ## Variable Infractions
 
