@@ -91,7 +91,6 @@ Minor Infractions
 -
 -
 -
-
 ## Major Infractions
 
  These infractions have a more serious impact on gameplay, oftentimes requiring direct admin involvement to remedy, such as deliberate dock block resulting in death, harassment, self-harm encouragement, and more.
