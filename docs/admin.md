@@ -81,7 +81,7 @@ Minor Infractions
 
 ## Minor infractions are small-scale issues that do not require admins to be present to handle, though they can handle the issue afterwards. 
 
-Some infractions, but not limited to, are the following:
+ Some infractions, but not limited to, are the following:
 - Chat Flood
 - Accidental Dock Block
 - Bypassing Chat Filter
