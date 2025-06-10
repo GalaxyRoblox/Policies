@@ -218,6 +218,7 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 
 - Toxicity that surpasses what could reasonably be considered a [minor infraction](#toxicity--trolling "Minor - Toxicity / Trolling").
     - Repeated harassment towards another community member, or harassment in DMs.
+    - False accusations of criminal activity such as pedophilia also fall under this policy.
 
 ### Exploits / Harmless Malicious Intentions
 
