@@ -263,6 +263,8 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 
 - Using an alternate Discord account to bypass a moderation action.
     - If the alternate account has not broken any rules and is not linked to a user who has previously broken this policy, they may stay as long as they are not being disruptive.
+    - If the main account was banned for a Discord ToS / CG violation, all future alts linked back to the offender and existing known alternate accounts should be permanently banned.
+    - Alternate accounts that are banned under this clause may or may not be eligible for an unban alongside the main account. This decision will be made by the Mod Manager during the appeal process.
 
 ### Discord Profile Violations
 
