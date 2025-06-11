@@ -285,17 +285,22 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
     - e.g. Discussing the results of your Jerkmate Ranked tournament. <!-- (☠️) -->
 - Posting pornograpahic content or content depicting gore.
 
-### Roblox Account Selling
+### Discord / Roblox Account Selling
 
 <div class="annotate" markdown>
 
-- Discussing the act of purchasing or selling Roblox accounts. (1)
+- Discussing the act of purchasing or selling Discord or Roblox accounts. (1) (2)
     - No proof of transaction is required for an offender to be moderated.
-    - If the offender is obviously joking about purchasing or selling a Roblox account, they should not be moderated.
+    - If the offender is obviously joking about purchasing or selling a Discord or Roblox account, they should not be moderated.
 
 </div>
 
-1. /// admonition | **[Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use "Roblox Terms of Use")** (User Terms 2b & 2c)
+1. /// admonition | **[Discord Terms of Service](https://discord.com/terms/#4 "Discord Terms of Service - Your Discord Account")** ("Your Discord Account")
+    type: quote
+*You agree not to license, sell, lend, or transfer your account, Discord username, vanity URL, or other unique identifier without our prior written approval.*
+///
+
+2. /// admonition | **[Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use "Roblox Terms of Use")** (User Terms 2b & 2c)
     type: quote
 
 *<h3>Securing an Account</h3>*
