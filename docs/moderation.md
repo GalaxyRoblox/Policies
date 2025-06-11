@@ -287,9 +287,25 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 
 ### Roblox Account Selling
 
-- Discussing the act of purchasing or selling Roblox accounts.
+<div class="annotate" markdown>
+
+- Discussing the act of purchasing or selling Roblox accounts. (1)
     - No proof of transaction is required for an offender to be moderated.
     - If the offender is obviously joking about purchasing or selling a Roblox account, they should not be moderated.
+
+</div>
+
+1. /// admonition | **[Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use "Roblox Terms of Use")** (User Terms 2b & 2c)
+    type: quote
+
+*<h3>Securing an Account</h3>*
+
+*You are responsible for maintaining the confidentiality and security of any credentials used to access your Account (e.g., a username and password).* <ins>***You must not share or disclose such credentials to others***</ins> *(except for Guardians in the case of a Minor User).*
+
+*<h3>Account Responsibilities and Prohibitions</h3>*
+
+*You understand, acknowledge, and agree that you will be responsible for any actions taken in your Account and on the Services using your access credentials, whether or not such actions have been authorized by you. You may only access the Services through your own Account.* <ins>***Selling your Account or your access credentials to another User is strictly prohibited. Similarly, purchasing another User’s Account or access credentials is strictly prohibited.***</ins> *However, transferring an Account in connection with the sale of the right to earn Robux from the sale of Virtual Content created by that Account, pursuant to a valid written agreement, is permitted. This exception does not permit the sale of Robux or Virtual Content outside the Services.*
+///
 
 ### Illegal or Malicious Links / Piracy
 
