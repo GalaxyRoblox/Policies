@@ -369,20 +369,19 @@ We use a set of blacklist roles to revoke a rulebreaker's access to specific ser
     - Suggestions blacklists are one month long.
     - If an offender is obviously new, consider giving them a verbal warning and directing them to the previously mentioned [Suggestions Guide](https://docs.google.com/document/d/1mHU-zdFU8X8IEJuLha9UYuS-nzgjXTGn-hb-LH8EOUY/edit?usp=sharing "Google Docs - Galaxy Suggestions Guide Ed. 4") before blacklisting them.
 
-### Punishment Scaling
+### Scaling
 
-| Sanction                              | Minor Offenses  | Major Offenses  | Forbidden Offenses |
-|---------------------------------------|:---------------:|:---------------:|:------------------:|
-| **Warning**                           | 1st–2nd offense |        —        |         —          |
-| **3‑day mute**                        | 3rd offense     |        —        |         —          |
-| **7‑day mute**                        | 4th offense     |        —        |         —          |
-| **3‑day tempban**                     | 5th offense     | 1st offense     |         —          |
-| **7‑day tempban**                     | 6th offense     | 2nd offense     |         —          |
-| **14‑day tempban**                    | 7th offense     | 3rd offense     |         —          |
-| **Permanent ban**<br>(appeal after 3 months) | 8th+ offense | 4th+ offense   |         —          |
-| **Permanent ban**<br>(appeal after 6 months) |       —       |        —        | 1st+ offense       |
-
-
+| Punishment                                      | Minor Offenses  | Major Offenses  | Forbidden Offenses |
+|-------------------------------------------------|:---------------:|:---------------:|:------------------:|
+| **Warning**                                     | 1st–2nd offense |        —        |         —          |
+| **3‑day mute**                                  | 3rd offense     |        —        |         —          |
+| **7‑day mute**                                  | 4th offense     |        —        |         —          |
+| **3‑day tempban**                               | 5th offense     | 1st offense     |         —          |
+| **7‑day tempban**                               | 6th offense     | 2nd offense     |         —          |
+| **14‑day tempban**                              | 7th offense     | 3rd offense     |         —          |
+| **Permanent ban**<br>(appeal after 3 months)    | 8th+ offense    | 4th+ offense    |         —          |
+| **Permanent ban**<br>(appeal after 6 months)    |        —        |        —        | 1st offense        |
+| **Permanent ban**<br>(unappealable)             |        —        |        —        | 2nd+ offense       |
 
 <!-- markdownlint-disable-next-line no-space-in-emphasis -->
 *[Self-censoring]: Using other characters such as * in place of characters of filtered words, in order to bypass the filter.
