@@ -1,0 +1,36 @@
+name: Check
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  lint:
+    name: Lint Files
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v6
+
+      - name: Install dependencies
+        run: uv sync && echo "UV_NO_SYNC=true" >> $GITHUB_ENV
+
+      - name: Analysing Markdown files with markdownlint
+        uses: DavidAnson/markdownlint-cli2-action@v20
+        with:
+          globs: "**/*.md"
+
+      - name: Analysing Python code with ruff
+        if: ${{ success() }} || ${{ failure() }}
+        run: uv run ruff check $(git ls-files '*.py')
+
+      - name: Analysing Python code with basedpyright
+        if: ${{ success() }} || ${{ failure() }}
+        run: uv run basedpyright $(git ls-files '*.py')
