@@ -146,7 +146,7 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 - Reactions/Emojis/Stickers:
     - Combining emojis/reactions to spell out blacklisted words.
     - Using stickers with inappropriate names.
-    - Apply the `Blacklist - Reactions` role alongside normal punishment if the infraction involved reactions.
+    - Apply the [`Blacklist - Reactions`](#reactions-blacklist "Punishments - Reaction Blacklist") role alongside normal punishment if the infraction involved reactions.
 
 ### Toxicity / Trolling
 
@@ -192,7 +192,7 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 - Posting or playing excessively loud tracks.
 - Songs with the explicit intention to bypass.
     - Songs that include a few bypasses are usually allowed as long as the context of the song is not breaking any other rules.
-- Apply the `Blacklist - DJ` role alongside normal punishment when punishing for this.
+- Apply the [`Blacklist - DJ`](#dj-blacklist "Punishments - DJ Blacklist") role alongside normal punishment when punishing for this.
 
 ## Major Infractions
 
@@ -327,6 +327,69 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
     - This also includes banning underage users (<13).
     - We do not punish client modification users. This is because Discord themselves do not punish users or developers of client modifications.
 - Users who are banned for breaking the Discord ToS / CG should always be reported to Discord, either through right-clicking the offending message and clicking **`Report`**, or sending a report through Discord's **[support portal](https://dis.gd/request "Discord Support - Submit a request")**.
+
+## Punishments
+
+### Blacklists
+
+We use a set of blacklist roles to revoke a rulebreaker's access to specific server or Discord features.
+
+#### DJ Blacklist
+
+- DJ Blacklists remove a user's ability to use the Audio features provided by our bot.
+    - Give these blacklists to users who break rules using music or audio played through the bot.
+    - These blacklists are permanent and are appealable, but only by the operator of the bot itself.
+
+#### Game Questions Blacklist
+
+- Game Questions Blacklists remove a user's ability to speak in the `#!cpp #game-questions` channel.
+    - Helpers may ask a Moderator to give an offender this role if they have valid evidence that someone is actively and intentionally providing incorrect or fraudulent answers, or is being excessively disruptive after being told to stop.
+    - These blacklists may last anywhere from one month to two months for the first offense, and become permanent for subsequent offenses.
+
+#### Giveaway Blacklist
+
+- Giveaway Blacklists remove a user's ability to participate in giveaways hosted in the `#!cpp #giveaways` channel.
+    - These blacklists last one month, and are usually handled by Admins.
+
+#### Picture Perms Blacklist
+
+- Picture Perms Blacklists remove a user's ability to upload files and embed links.
+    - Give these blacklists to users who break rules through images or videos, such as severe racism or whatnot.
+    - These blacklists last one month. For subsequent offenses, if the offenses are serious enough, the blacklist may be made permanent.
+
+#### Reactions Blacklist
+
+- Reactions Blacklists remove a user's ability to add reactions to messages.
+    - Give these blacklists to users who break rules through adding reactions to another message, such as filter bypasses or racism.
+    - These blacklists last one month. For subsequent offenses, if the offenses are serious enough, the blacklist may be made permanent.
+
+#### Suggestions Blacklist
+
+- Suggestions Blacklists are given based on violations listed on the [Suggestions Guide](https://docs.google.com/document/d/1mHU-zdFU8X8IEJuLha9UYuS-nzgjXTGn-hb-LH8EOUY/edit?usp=sharing "Google Docs - Galaxy Suggestions Guide Ed. 4").
+    - Suggestions blacklists are one month long.
+    - If an offender is obviously new, consider giving them a verbal warning and directing them to the previously mentioned [Suggestions Guide](https://docs.google.com/document/d/1mHU-zdFU8X8IEJuLha9UYuS-nzgjXTGn-hb-LH8EOUY/edit?usp=sharing "Google Docs - Galaxy Suggestions Guide Ed. 4") before blacklisting them.
+
+### Minor Offenses
+
+1. Warning
+2. Warning
+3. Three day Mute
+4. Seven day Mute
+5. Three day Tempban
+6. Seven day Tempban
+7. Fourteen day Tempban
+8. Permanent ban with chance to appeal after three months
+
+### Major Offenses
+
+1. Three day Tempban
+2. Seven day Tempban
+3. Fourteen day Tempban
+4. Permanent ban with chance to appeal after three months
+
+### Forbidden Offenses
+
+1. Permanent ban with chance to appeal after six months.
 
 <!-- markdownlint-disable-next-line no-space-in-emphasis -->
 *[Self-censoring]: Using other characters such as * in place of characters of filtered words, in order to bypass the filter.
