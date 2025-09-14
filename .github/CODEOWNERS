@@ -10,3 +10,7 @@
 # Assign these to the current Mod Manager.
 docs/moderation.md @cswimr
 docs/img/moderation/* @cswimr
+
+# Assign these to the current Admin Director and Lead Admin.
+docs/admin.md @Jaxumi92 @ButterDogg
+docs/img/admin/* @Jaxumi92 @ButterDogg
