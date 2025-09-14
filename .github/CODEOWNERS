@@ -11,7 +11,7 @@
 
 pyproject.toml @cswimr
 uv.lock @cswimr
-.github/* @cswimr
+.github/** @cswimr
 
 # Assign these to the current Mod Manager.
 docs/moderation.md @cswimr
