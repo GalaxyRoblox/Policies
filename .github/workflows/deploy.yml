@@ -37,7 +37,7 @@ jobs:
           MKDOCS_EDIT_URI: edit/${{ github.base_ref || 'main' }}/docs/
 
       - name: Deploy to Cloudflare Pages
-        uses: andykenward/github-actions-cloudflare-pages@v2.3.2
+        uses: andykenward/github-actions-cloudflare-pages@v3.1.0
         id: pages
         if: (github.actor != 'dependabot[bot]')
         with:
