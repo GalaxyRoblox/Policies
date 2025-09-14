@@ -3,9 +3,6 @@ on:
   push:
     branches:
       - main
-  pull_request_target:
-    branches:
-      - main
   pull_request:
     branches:
       - main
@@ -17,11 +14,6 @@ jobs:
       contents: read
       deployments: write
       pull-requests: write
-    # If the PR is coming from a fork (pull_request_target), ensure it's opened by "dependabot[bot]".
-    # Otherwise, clone it normally.
-    if: |
-      (github.event_name == 'pull_request_target' && github.actor == 'dependabot[bot]') ||
-      (github.event_name != 'pull_request_target' && github.actor != 'dependabot[bot]')
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -47,6 +39,7 @@ jobs:
       - name: Deploy to Cloudflare Pages
         uses: andykenward/github-actions-cloudflare-pages@v2.3.2
         id: pages
+        if: (github.actor != 'dependabot[bot]')
         with:
           cloudflare-api-token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           cloudflare-account-id: ${{ vars.CLOUDFLARE_ACCOUNT_ID }}
