@@ -2,7 +2,7 @@
 # This will automatically assign you to review pull requests for the files you claim ownership of.
 # Example:
 # docs/admin.md @Jaxumi92 @ButterDogg
-# docs/img/admin/* @Jaxumi92 @ButterDogg
+# docs/img/admin/** @Jaxumi92 @ButterDogg
 
 # Assign these to the current repository maintainer.
 
@@ -15,4 +15,4 @@ uv.lock @cswimr
 
 # Assign these to the current Mod Manager.
 docs/moderation.md @cswimr
-docs/img/moderation/* @cswimr
+docs/img/moderation/** @cswimr
