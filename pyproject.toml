@@ -15,7 +15,7 @@ dependencies = [
 
 [dependency-groups]
 dev = [
-  "basedpyright==1.31.4",
+  "basedpyright==1.31.5",
   "linkchecker==10.6.0",
   "pre-commit==4.3.0",
   "ruff==0.13.1",
