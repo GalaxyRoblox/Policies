@@ -18,5 +18,5 @@ dev = [
   "basedpyright==1.31.4",
   "linkchecker==10.6.0",
   "pre-commit==4.3.0",
-  "ruff==0.13.1",
+  "ruff==0.14.1",
 ]
