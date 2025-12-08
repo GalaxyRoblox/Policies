@@ -47,6 +47,7 @@ When moderating a community member, you are expected to post the following infor
     - If the infraction occurred in a voice chat, you must have a video or audio recording of the infraction.
     - If the evidence violates the Discord **[Terms of Service](https://discord.com/terms "Discord Terms of Service")** or **[Community Guidelines](https://discord.com/guidelines "Discord Community Guidelines")**, **do not** post it in the `#!cpp #mod-evidence` channel. This includes things such as NSFW content, as the `#!cpp #mod-evidence` channel is not an Age-Restricted channel.
     - Not providing evidence for a moderation, unless it is a ToS / CG violation, means that the moderation is invalid and may be reverted at the Mod Manager's discretion.
+    - If a piece of evidence is older than **two (2) weeks**, you **may not** use it as justification for a moderation action without explicit approval from the Mod Manager.
 - **Details:**
     - Aurora case ID
     - Your user ID
