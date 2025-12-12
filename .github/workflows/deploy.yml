@@ -31,10 +31,7 @@ jobs:
           echo "UV_NO_SYNC=true" >> $GITHUB_ENV
 
       - name: Build documentation
-        run: uv run mkdocs build -v
-        env:
-          MKDOCS_BASE_URL: https://policy.csw.im
-          MKDOCS_EDIT_URI: edit/${{ github.base_ref || 'main' }}/docs/
+        run: uv run zensical build --strict
 
       - name: Deploy to Cloudflare Pages
         uses: andykenward/github-actions-cloudflare-pages@v3.1.0

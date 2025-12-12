@@ -69,12 +69,11 @@
           commands = with pkgs; [
             { package = uv; }
             {
-              name = "mkdocs";
-              command = ''mkdocs "$@"'';
+              name = "zeniscal";
+              command = ''zensical "$@"'';
               help = "Project documentation with Markdown / static website generator";
             }
             { package = act; }
-            { package = pre-commit; }
             { package = typos; }
             {
               package = nixfmt-rfc-style;
@@ -91,9 +90,6 @@
           packages = with pkgs; [
             stdenv.cc.cc
             python3
-            # Material for MkDocs dependencies
-            cairo
-            pngquant
           ];
 
           env = [
