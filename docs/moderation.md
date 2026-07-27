@@ -94,7 +94,7 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
 
 - Inactivity exceeding one week without leaving a notice first.
     - Inform the Mod Manager of how long you'll be inactive and why.
-      <!-- TODO: revisit this policy... I don't know how I feel about this (@cswimr) -->
+          <!-- TODO: revisit this policy... I don't know how I feel about this (@cswimr) -->
     - If you are a Trial Moderator, your evaluation period will be extended by however many days you were inactive, according to your inactivity notice. (1)
 - Abuse of your powers or continuous false moderations.
     - You will be expected to answer questions about your abuse of power.
@@ -380,6 +380,9 @@ We use a set of blacklist roles to revoke a rulebreaker's access to specific ser
 | **Permanent ban**<br>(appeal after 6 months) |        —        |       —        |    1st offense     |
 | **Permanent ban**<br>(unappealable)          |        —        |       —        |    2nd+ offense    |
 
-<!-- markdownlint-disable-next-line no-space-in-emphasis -->
+<!-- prettier-ignore-start -->
 
+<!-- markdownlint-disable-next-line no-space-in-emphasis -->
 *[Self-censoring]: Using other characters such as * in place of characters of filtered words, in order to bypass the filter.
+
+<!-- prettier-ignore-end -->
