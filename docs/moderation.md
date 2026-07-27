@@ -381,5 +381,4 @@ We use a set of blacklist roles to revoke a rulebreaker's access to specific ser
 | **Permanent ban**<br>(unappealable)          |        —        |       —        |    2nd+ offense    |
 
 <!-- markdownlint-disable-next-line no-space-in-emphasis -->
-
 *[Self-censoring]: Using other characters such as * in place of characters of filtered words, in order to bypass the filter.
