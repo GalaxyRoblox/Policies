@@ -4,7 +4,6 @@
     "formulahendry.auto-rename-tag",
     "davidanson.vscode-markdownlint",
     "tekumara.typos-vscode",
-    "redhat.vscode-yaml",
     "editorconfig.editorconfig"
   ]
 }

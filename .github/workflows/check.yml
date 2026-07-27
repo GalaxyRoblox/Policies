@@ -20,37 +20,3 @@ jobs:
         uses: DavidAnson/markdownlint-cli2-action@v20
         with:
           globs: "**/*.md"
-
-  ruff:
-    name: Lint Python Files with Ruff
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-
-      - name: Setup uv
-        uses: astral-sh/setup-uv@v7
-
-      - name: Install dependencies
-        run: uv sync && echo "UV_NO_SYNC=true" >> $GITHUB_ENV
-
-      - name: Analysing Python code with ruff
-        run: uv run ruff check $(git ls-files '*.py')
-
-  basedpyright:
-    name: Lint Python Files with basedpyright
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-
-      - name: Setup uv
-        uses: astral-sh/setup-uv@v7
-
-      - name: Install dependencies
-        run: uv sync && echo "UV_NO_SYNC=true" >> $GITHUB_ENV
-
-      - name: Analysing Python code with basedpyright
-        run: uv run basedpyright $(git ls-files '*.py')

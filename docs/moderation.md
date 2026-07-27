@@ -149,19 +149,19 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
     - Using stickers with inappropriate names.
     - Apply the [`Blacklist - Reactions`](#reactions-blacklist "Punishments - Reaction Blacklist") role alongside normal punishment if the infraction involved reactions.
 
-### Toxicity / Trolling
+### Toxicity / Trolling {#toxicity-trolling}
 
 - Instigating conflict, hostility, or arguments.
 - Harassment, mild threats, or disruptive behavior.
 - Requesting blacklisted roles.
 
-### Spamming / Chat Flooding
+### Spamming / Chat Flooding {#spamming}
 
 - Excessive, repetitive messages or meaningless spam.
     - Do not moderate for walls of text with clear intent (not copypastas).
     - If spam spans multiple channels excessively, treat as [Raiding](#raiding "Forbidden - Raiding").
 
-### NSFW References / Borderline Racism
+### NSFW References / Borderline Racism {#nsfw-references-borderline-racism}
 
 - Borderline NSFW content (suggestive references/imagery).
 - Racially suggestive remarks.
@@ -177,7 +177,7 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
     - If content violates the Terms of Service of the service it was posted on, report it to that service.
 - Community members may submit a Discord server to `#!cpp #group-advertising` by creating a general support ticket in the **[Support Server](https://discord.gg/ShWshkhYhZ "Join the Galaxy Support server on Discord")**. See [Duties](#duties "Moderators - Duties").
 
-### Mention Spamming / Ghost Mentioning
+### Mention Spamming / Ghost Mentioning {#mention-spamming}
 
 - Mentioning ≥4 users or repeat mentions.
 - Ghost mentioning after verbal warnings (from other users/staff).
@@ -188,7 +188,7 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
     - e.g. posting messages in `#!cpp #refund-request` that are not refunds.
     - If this is a newer member's first offense, consider verbally warning them and deleting their messages instead of moderating them.
 
-### DJ Role Abuse / Music Bypasses
+### DJ Role Abuse / Music Bypasses {#dj-role-abuse}
 
 - Posting or playing excessively loud tracks.
 - Songs with the explicit intention to bypass.
@@ -197,7 +197,7 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 
 ## Major Infractions
 
-### Racism / Discrimination
+### Racism / Discrimination {#racism-discrimination}
 
 - Glorifying radical political events in a purposeful attempt to incite disruptions or drama.
 - Attacking another community member based on attributes such as their race, national origin, ethnicity, sexual orientation, gender, sex, religious affiliations or disabilities.
@@ -206,7 +206,7 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 
 - Encouraging other community members to commit an illegal action.
     - This includes discussing topics such as drug abuse and underage drinking when those discussions are explicitly encouraging those acts.
-    - This is specifically for illegal actions, i.e. actions that violate the law in the country that the victim is in. If the victim's country is unknown, use US law. Use [Violating Discord Terms of Service / Community Guidelines](#violating-discord-terms-of-service--community-guidelines "Forbidden - Violating Terms of Service / Community Guidelines") for Terms of Service violations.
+    - This is specifically for illegal actions, i.e. actions that violate the law in the country that the victim is in. If the victim's country is unknown, use US law. Use [Violating Discord Terms of Service / Community Guidelines](#discord-tos-cg "Forbidden - Violating Terms of Service / Community Guidelines") for Terms of Service violations.
 
 ### Self Harm References
 
@@ -217,18 +217,18 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 
 ### Targeted Harassment
 
-- Toxicity that surpasses what could reasonably be considered a [minor infraction](#toxicity--trolling "Minor - Toxicity / Trolling").
+- Toxicity that surpasses what could reasonably be considered a [minor infraction](#toxicity-trolling "Minor - Toxicity / Trolling").
     - Repeated harassment towards another community member, or harassment in DMs.
     - False accusations of criminal activity such as pedophilia also fall under this policy.
 
-### Exploits / Harmless Malicious Intentions
+### Exploits / Harmless Malicious Intentions {#exploits-harmless-malicious-intentions}
 
 - Encouraging people to buy, use, or sell exploits for Galaxy or other games, regardless of platform.
     - Additionally, this includes posting and distributing exploits, exploit injectors, and illegal macros. These terms will be more thoroughly defined in the Admin Guidelines. <!-- TODO: Update this with a hyperlink to the admin guidelines whenever they're finished (@cswimr) -->
 - Posting files, urls, or other content that is considered suspicious, such as:
     - Videos or images that crash Discord
     - Files that cause a false-positive antivirus detection
-- If a posted file is actively malicious, moderate under [Illegal or Malicious Links](#illegal-or-malicious-links--piracy "Forbidden - Illegal or Malicious Links").
+- If a posted file is actively malicious, moderate under [Illegal or Malicious Links](#illegal-links-piracy "Forbidden - Illegal or Malicious Links").
 - Use **[Virustotal](https://www.virustotal.com/ "Virustotal - Analyze suspicious files, domains, IPs, and URLs to detect malware and other breaches, automatically share them with the security community.")** to analyze suspicious files or URLs to determine if the link sent is suspicious before moderating.
 
 ### Rioting
@@ -282,11 +282,11 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 
 ### NSFW Content
 
-- Discussing sexual topics beyond the level where an [NSFW Reference](#nsfw-references--borderline-racism "Minor - NSFW References") moderation is applicable.
+- Discussing sexual topics beyond the level where an [NSFW Reference](#nsfw-references-borderline-racism "Minor - NSFW References") moderation is applicable.
     - e.g. Discussing the results of your Jerkmate Ranked tournament. <!-- (☠️) -->
 - Posting pornograpahic content or content depicting gore.
 
-### Discord / Roblox Account Selling
+### Discord / Roblox Account Selling {#account-selling}
 
 <div class="annotate" markdown>
 
@@ -313,7 +313,7 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 *You understand, acknowledge, and agree that you will be responsible for any actions taken in your Account and on the Services using your access credentials, whether or not such actions have been authorized by you. You may only access the Services through your own Account.* <ins>***Selling your Account or your access credentials to another User is strictly prohibited. Similarly, purchasing another User’s Account or access credentials is strictly prohibited.***</ins> *However, transferring an Account in connection with the sale of the right to earn Robux from the sale of Virtual Content created by that Account, pursuant to a valid written agreement, is permitted. This exception does not permit the sale of Robux or Virtual Content outside the Services.*
 ///
 
-### Illegal or Malicious Links / Piracy
+### Illegal or Malicious Links / Piracy {#illegal-links-piracy}
 
 - Posting pirate content, or links to obtain it.
 - Posting actively malicious content (e.g. malware) meant to harm other community members.
@@ -322,7 +322,7 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 
 - Purposefully flooding one or more channels with content with the intention to cause channel-wide or server-wide disruptions.
 
-### Violating Discord Terms of Service / Community Guidelines
+### Violating Discord Terms of Service / Community Guidelines {#discord-tos-cg}
 
 - If a community member violates the Discord **[Terms of Service](https://discord.com/terms "Discord Terms of Service")** or **[Community Guidelines](https://discord.com/guidelines "Discord Community Guidelines")**, they should be permanently banned.
     - This also includes banning underage users (<13).
