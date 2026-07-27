@@ -5,17 +5,12 @@ This community is based around the Roblox game **[Galaxy](https://roblox.com/gam
 **Trial Moderators**, direct any questions to the other Moderators. They have experience and will help to support and guide you.  
 **Moderators**, direct any questions to the Mod Manager.
 
-/// admonition | Work in Progress
-    type: danger
-This guide is still being actively worked on, and is not quite ready yet. Report any issues to @cswim on Discord.
-///
-
 ## Trial Moderators
 
 Every Moderator begins as a Trial Moderator. It is not just a role, but a period of time in which the Mod Manager will closely oversee all of your actions and determine if you are fit to be a Moderator. This evaluation period lasts for 14 days. On the final day of your evaluation period, the Mod Manager will go through your activity and determine if you should be promoted or let go. The Mod Manager may remove you before the period is up for other reasons, such as abuse of power. Questions are to be expected from you, do not be afraid to ask for help!
 
 /// admonition | Trial Moderator Permissions
-    type: info
+type: info
 Trial Moderators do not have the required permissions to ban or kick users. Please ask a Moderator to handle that if you're certain that a particular member deserves a ban. If you cannot wait for a response, you may shortmute the rulebreaker for up to 30 minutes so they don't cause any more trouble.
 ///
 
@@ -56,7 +51,7 @@ When moderating a community member, you are expected to post the following infor
     - Duration (if applicable, e.g., for bans/mutes)
 
 /// details | Auto Evidence Format
-    type: tip
+type: tip
 
 **[Aurora](https://seacogs.csw.im/aurora "SeaCogs Documentation - Aurora")** automatically generates a pre-formatted moderation log with all required details.
 
@@ -71,13 +66,13 @@ When moderating a community member, you are expected to post the following infor
 
 <h3>Extra Details</h3>
 
-- Disable Auto Evidence Format:  
+- Disable Auto Evidence Format:
 
 ```prolog
 -aurora settings overrides
 ```
 
-- Manually generate a case summary:  
+- Manually generate a case summary:
 
 ```prolog
 /case case:13,729 evidenceformat:True
@@ -99,7 +94,7 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
 
 - Inactivity exceeding one week without leaving a notice first.
     - Inform the Mod Manager of how long you'll be inactive and why.
-    <!-- TODO: revisit this policy... I don't know how I feel about this (@cswimr) -->
+      <!-- TODO: revisit this policy... I don't know how I feel about this (@cswimr) -->
     - If you are a Trial Moderator, your evaluation period will be extended by however many days you were inactive, according to your inactivity notice. (1)
 - Abuse of your powers or continuous false moderations.
     - You will be expected to answer questions about your abuse of power.
@@ -124,19 +119,19 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
 </div>
 
 1. /// admonition
-    type: example
-If you were given Trial Moderator on the 8th of April, your evaluation period would end on April 22nd. If you announce that you will be inactive for a week, your evaluation period will instead end on April 29th.
-///
+   type: example
+   If you were given Trial Moderator on the 8th of April, your evaluation period would end on April 22nd. If you announce that you will be inactive for a week, your evaluation period will instead end on April 29th.
+   ///
 
 2. /// admonition | **[Discord Terms of Service](https://discord.com/terms/#4 "Discord Terms of Service - Your Discord Account")** ("Your Discord Account")
-    type: quote
-*You agree not to license, sell, lend, or transfer your account, Discord username, vanity URL, or other unique identifier without our prior written approval.*
-///
+   type: quote
+   _You agree not to license, sell, lend, or transfer your account, Discord username, vanity URL, or other unique identifier without our prior written approval._
+   ///
 
 3. /// admonition | **[Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use "Roblox Terms of Use")** (User Terms 2b, "Securing an Account")
-    type: quote
-*You are responsible for maintaining the confidentiality and security of any credentials used to access your Account (e.g., a username and password). You must not share or disclose such credentials to others (except for Guardians in the case of a Minor User).*
-///
+   type: quote
+   _You are responsible for maintaining the confidentiality and security of any credentials used to access your Account (e.g., a username and password). You must not share or disclose such credentials to others (except for Guardians in the case of a Minor User)._
+   ///
 
 ## Minor Infractions
 
@@ -250,6 +245,7 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 - Doxxing bans are **unappealable**, unless the community member who was doxxed feels comfortable with allowing the offender back into the server. In this case, the ban becomes appelable, but the offender must still follow the normal appeals process. This includes waiting the standard **6 months** for Forbidden offenses, and getting their appeal accepted by the Mod Manager.
     - In specific cases, the Mod Manager **may** waive the 6 month waiting period.
     - If the victim who was doxxed is unknown, the Mod Manager **may** waive the requirement for the offender to obtain forgiveness from the victim.
+
 <!-- TODO: consider moving the doxxing ban appeals policy after [#6](https://github.com/GalaxyRoblox/Policies/issues/6) is done (@cswimr) -->
 
 ### Encouraging Self Harm
@@ -297,20 +293,20 @@ If you were given Trial Moderator on the 8th of April, your evaluation period wo
 </div>
 
 1. /// admonition | **[Discord Terms of Service](https://discord.com/terms/#4 "Discord Terms of Service - Your Discord Account")** ("Your Discord Account")
-    type: quote
-*You agree not to license, sell, lend, or transfer your account, Discord username, vanity URL, or other unique identifier without our prior written approval.*
-///
+   type: quote
+   _You agree not to license, sell, lend, or transfer your account, Discord username, vanity URL, or other unique identifier without our prior written approval._
+   ///
 
 2. /// admonition | **[Roblox Terms of Use](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use "Roblox Terms of Use")** (User Terms 2b & 2c)
-    type: quote
+   type: quote
 
-*<h3>Securing an Account</h3>*
+_<h3>Securing an Account</h3>_
 
-*You are responsible for maintaining the confidentiality and security of any credentials used to access your Account (e.g., a username and password).* <ins>***You must not share or disclose such credentials to others***</ins> *(except for Guardians in the case of a Minor User).*
+_You are responsible for maintaining the confidentiality and security of any credentials used to access your Account (e.g., a username and password)._ <ins>_**You must not share or disclose such credentials to others**_</ins> _(except for Guardians in the case of a Minor User)._
 
-*<h3>Account Responsibilities and Prohibitions</h3>*
+_<h3>Account Responsibilities and Prohibitions</h3>_
 
-*You understand, acknowledge, and agree that you will be responsible for any actions taken in your Account and on the Services using your access credentials, whether or not such actions have been authorized by you. You may only access the Services through your own Account.* <ins>***Selling your Account or your access credentials to another User is strictly prohibited. Similarly, purchasing another User’s Account or access credentials is strictly prohibited.***</ins> *However, transferring an Account in connection with the sale of the right to earn Robux from the sale of Virtual Content created by that Account, pursuant to a valid written agreement, is permitted. This exception does not permit the sale of Robux or Virtual Content outside the Services.*
+_You understand, acknowledge, and agree that you will be responsible for any actions taken in your Account and on the Services using your access credentials, whether or not such actions have been authorized by you. You may only access the Services through your own Account._ <ins>_**Selling your Account or your access credentials to another User is strictly prohibited. Similarly, purchasing another User’s Account or access credentials is strictly prohibited.**_</ins> _However, transferring an Account in connection with the sale of the right to earn Robux from the sale of Virtual Content created by that Account, pursuant to a valid written agreement, is permitted. This exception does not permit the sale of Robux or Virtual Content outside the Services._
 ///
 
 ### Illegal or Malicious Links / Piracy {#illegal-links-piracy}
@@ -372,17 +368,18 @@ We use a set of blacklist roles to revoke a rulebreaker's access to specific ser
 
 ### Scaling
 
-| Punishment                                      | Minor Offenses  | Major Offenses  | Forbidden Offenses |
-|-------------------------------------------------|:---------------:|:---------------:|:------------------:|
-| **Warning**                                     | 1st–2nd offense |        —        |         —          |
-| **3‑day mute**                                  | 3rd offense     |        —        |         —          |
-| **7‑day mute**                                  | 4th offense     |        —        |         —          |
-| **3‑day tempban**                               | 5th offense     | 1st offense     |         —          |
-| **7‑day tempban**                               | 6th offense     | 2nd offense     |         —          |
-| **14‑day tempban**                              | 7th offense     | 3rd offense     |         —          |
-| **Permanent ban**<br>(appeal after 3 months)    | 8th+ offense    | 4th+ offense    |         —          |
-| **Permanent ban**<br>(appeal after 6 months)    |        —        |        —        | 1st offense        |
-| **Permanent ban**<br>(unappealable)             |        —        |        —        | 2nd+ offense       |
+| Punishment                                   | Minor Offenses  | Major Offenses | Forbidden Offenses |
+| -------------------------------------------- | :-------------: | :------------: | :----------------: |
+| **Warning**                                  | 1st–2nd offense |       —        |         —          |
+| **3‑day mute**                               |   3rd offense   |       —        |         —          |
+| **7‑day mute**                               |   4th offense   |       —        |         —          |
+| **3‑day tempban**                            |   5th offense   |  1st offense   |         —          |
+| **7‑day tempban**                            |   6th offense   |  2nd offense   |         —          |
+| **14‑day tempban**                           |   7th offense   |  3rd offense   |         —          |
+| **Permanent ban**<br>(appeal after 3 months) |  8th+ offense   |  4th+ offense  |         —          |
+| **Permanent ban**<br>(appeal after 6 months) |        —        |       —        |    1st offense     |
+| **Permanent ban**<br>(unappealable)          |        —        |       —        |    2nd+ offense    |
 
 <!-- markdownlint-disable-next-line no-space-in-emphasis -->
+
 *[Self-censoring]: Using other characters such as * in place of characters of filtered words, in order to bypass the filter.
