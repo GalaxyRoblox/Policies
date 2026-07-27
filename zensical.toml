@@ -63,6 +63,11 @@ link = "https://discord.com/invite/robloxgalaxy"
 name = "Join the official Galaxy Discord server!"
 
 [[project.extra.social]]
+icon = "simple/github"
+link = "https://github.com/GalaxyRoblox"
+name = "Find Galaxy on GitHub!"
+
+[[project.extra.social]]
 icon = "simple/miraheze"
 link = "https://wiki.galaxy.casa"
 name = "Galaxypedia - The official Galaxy wiki!"
