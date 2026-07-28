@@ -357,7 +357,6 @@ We use a set of blacklist roles to revoke a rulebreaker's access to specific ser
 - Picture Perms Blacklists remove a user's ability to upload files and embed links.
     - Give these blacklists to users who break rules through images or videos, such as severe racism or whatnot.
     - These blacklists last one month. For subsequent offenses, if the offenses are serious enough, the blacklist may be made permanent.
-    - Treyop gets permanent blacklist.
 
 #### Reactions Blacklist
 
