@@ -156,6 +156,11 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
     - Do not moderate for walls of text with clear intent (not copypastas).
     - If spam spans multiple channels excessively, treat as [Raiding](#raiding "Forbidden - Raiding").
 
+### AI Slop Posting
+
+- Posting blatant AI-generated slop at least a couple of times.
+    - This includes AI-generated deepfakes of people or animals.
+
 ### NSFW References / Borderline Racism {#nsfw-references-borderline-racism}
 
 - Borderline NSFW content (suggestive references/imagery).
@@ -279,7 +284,6 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
 ### NSFW Content
 
 - Discussing sexual topics beyond the level where an [NSFW Reference](#nsfw-references-borderline-racism "Minor - NSFW References") moderation is applicable.
-    - e.g. Discussing the results of your Jerkmate Ranked tournament. <!-- (☠️) -->
 - Posting pornograpahic content or content depicting gore.
 
 ### Discord / Roblox Account Selling {#account-selling}
