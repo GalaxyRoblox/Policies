@@ -284,7 +284,6 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
 ### NSFW Content
 
 - Discussing sexual topics beyond the level where an [NSFW Reference](#nsfw-references-borderline-racism "Minor - NSFW References") moderation is applicable.
-    - e.g. Discussing the results of your Jerkmate Ranked tournament. <!-- (☠️) -->
 - Posting pornograpahic content or content depicting gore.
 
 ### Discord / Roblox Account Selling {#account-selling}
