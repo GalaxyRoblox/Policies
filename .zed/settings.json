@@ -1,0 +1,14 @@
+{
+  "file_scan_exclusions": [
+    "**/.git",
+    "**/.DS_Store",
+    "**/Thumbs.db",
+    ".direnv",
+    ".cache",
+    ".data",
+    ".venv",
+  ],
+  "prettier": {
+    "allowed": false,
+  },
+}
