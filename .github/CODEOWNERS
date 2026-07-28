@@ -14,5 +14,5 @@ uv.lock @cswimr
 .github/** @cswimr
 
 # Assign these to the current Mod Manager.
-docs/moderation.md @cswimr
-docs/img/moderation/** @cswimr
+docs/moderation.md @DylanTheVillain101
+docs/img/moderation/** @DylanTheVillain101
