@@ -156,6 +156,11 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
     - Do not moderate for walls of text with clear intent (not copypastas).
     - If spam spans multiple channels excessively, treat as [Raiding](#raiding "Forbidden - Raiding").
 
+### AI Slop Posting
+
+- Posting blatant AI-generated slop at least a couple of times.
+    - This includes AI-generated deepfakes of people or animals.
+
 ### NSFW References / Borderline Racism {#nsfw-references-borderline-racism}
 
 - Borderline NSFW content (suggestive references/imagery).
