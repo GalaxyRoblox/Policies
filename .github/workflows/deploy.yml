@@ -34,7 +34,7 @@ jobs:
         run: uv run zensical build --strict
 
       - name: Deploy to Cloudflare Pages
-        uses: andykenward/github-actions-cloudflare-pages@v3.1.0
+        uses: andykenward/github-actions-cloudflare-pages@v3.5.0
         id: pages
         if: (github.actor != 'dependabot[bot]')
         with:
