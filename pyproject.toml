@@ -8,5 +8,5 @@ dependencies = ["zensical==0.0.52"]
 [dependency-groups]
 dev = [
   "linkchecker==10.6.0",
-  "pre-commit==4.6.1",
+  "pre-commit==4.6.2",
 ]
