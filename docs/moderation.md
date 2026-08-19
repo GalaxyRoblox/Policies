@@ -80,6 +80,24 @@ When moderating a community member, you are expected to post the following infor
 
 ///
 
+### Out-of-Server Moderations
+
+Galaxy's moderation team generally does not police rulebreaking behavior in servers that are not owned or operated by Galaxy. Such behavior should ordinarily be handled by the moderation team of the server in which it occurs, as determined by that server's rules and policies.
+
+However, certain types of violations may be moderated by Galaxy's moderation team regardless of where the violation occurs. These categories are as follows:
+
+- [Doxxing](#doxxing "Leaking Personally Identifiable Information")
+- **Extreme** cases of [targeted harassment and/or defamation](#harassment "Targeted Harassment")
+- [Discord Terms of Service / Community Guidelines violations](#discord-tos-cg "Forbidden - Violating Terms of Service / Community Guidelines"), when relevant to community safety.
+
+A violation occurring outside of Galaxy's officially owned and operated servers does not, by itself, prevent our team from taking moderation action when the violation falls within one of the aforementioned categories.
+
+For clarity, none of the following servers are ever considered officially owned by Galaxy:
+
+- Any server being advertised in `#!cpp #group-advertising`.
+- The Galaxypedia Discord server.
+- A small friendly Discord server made by a single Galaxy staff member.
+
 ### Accountability Clause
 
 As a Moderator, you are entrusted with the authority to exercise professional judgment when addressing behaviors that violate the community's standards, even in situations not explicitly covered by these Guidelines. This discretionary power allows you to take action against harmful conduct that exploits loopholes or operates in gray areas. However, all such decisions must be grounded in observable evidence and the community's best interests, not personal biases or unfounded opinions.
@@ -94,7 +112,6 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
 
 - Inactivity exceeding one week without leaving a notice first.
     - Inform the Mod Manager of how long you'll be inactive and why.
-      <!-- TODO: revisit this policy... I don't know how I feel about this (@cswimr) -->
     - If you are a Trial Moderator, your evaluation period will be extended by however many days you were inactive, according to your inactivity notice. (1)
 - Abuse of your powers or continuous false moderations.
     - You will be expected to answer questions about your abuse of power.
@@ -102,6 +119,7 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
 - Failure to enforce and follow server rules.
     - You are expected to follow both the server's rules and these Guidelines.
     - Your job is to enforce the server's rules. You are not immune to those rules.
+        - If you find a fellow staff member has broken a rule, do not take it upon yourself to moderate them. Instead, report the incident to the Mod Manager with proof.
 - Failure to respect other community members, regardless of their role.
     - You set the example for other community members to follow. Treat people as you want them to treat you; don't be an asshole.
 - Over-reliance on guidance after an extended period as a Moderator.
@@ -185,7 +203,7 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
 ### Improper Channel Usage
 
 - Posting messages in channels meant for a specific purpose, in a way that disregards that purpose.
-    - e.g. posting messages in `#!cpp #refund-request` that are not refunds.
+    - e.g. posting messages in `#!cpp #bug-reports` that are not bug reports.
     - If this is a newer member's first offense, consider verbally warning them and deleting their messages instead of moderating them.
 
 ### DJ Role Abuse / Music Bypasses {#dj-role-abuse}
@@ -215,10 +233,11 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
     - This is usually invoked for common jokes such as "kys" when those jokes have no target.
     - If someone is being explicitly told to commit self harm or suicide, moderate the encourager under [Encouraging Self Harm](#encouraging-self-harm "Forbidden - Encouraging Self Harm") instead.
 
-### Targeted Harassment
+### Targeted Harassment {#harassment}
 
 - Toxicity that surpasses what could reasonably be considered a [minor infraction](#toxicity-trolling "Minor - Toxicity / Trolling").
     - Repeated harassment towards another community member, or harassment in DMs.
+    - Repeated defamation attempts targeting another community member.
     - False accusations of criminal activity such as pedophilia also fall under this policy.
 
 ### Exploits / Harmless Malicious Intentions {#exploits-harmless-malicious-intentions}
@@ -238,7 +257,7 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
 
 ## Forbidden Infractions
 
-### Leaking Personally Identifiable Information ("Doxxing")
+### Leaking Personally Identifiable Information ("Doxxing") {#doxxing}
 
 - Leaking another community member's personal information without their express, explicit consent.
     - This includes but is not limited to:
@@ -371,6 +390,8 @@ We use a set of blacklist roles to revoke a rulebreaker's access to specific ser
     - If an offender is obviously new, consider giving them a verbal warning and directing them to the previously mentioned [Suggestions Guide](https://docs.google.com/document/d/1mHU-zdFU8X8IEJuLha9UYuS-nzgjXTGn-hb-LH8EOUY/edit?usp=sharing "Google Docs - Galaxy Suggestions Guide Ed. 4") before blacklisting them.
 
 ### Scaling
+
+- If the user's most recent moderation is 6 months or older, then their moderation history is effectively reset back to 0 offenses.
 
 | Punishment                                   | Minor Offenses  | Major Offenses | Forbidden Offenses |
 | -------------------------------------------- | :-------------: | :------------: | :----------------: |
