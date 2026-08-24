@@ -86,17 +86,13 @@ Galaxy's moderation team generally does not police rulebreaking behavior in serv
 
 However, certain types of violations may be moderated by Galaxy's moderation team regardless of where the violation occurs. These categories are as follows:
 
-- [Doxxing](#doxxing "Leaking Personally Identifiable Information")
-- **Extreme** cases of [targeted harassment and/or defamation](#harassment "Targeted Harassment")
+- **Extreme** cases of [targeted harassment and/or defamation](#harassment "Major - Targeted Harassment")
+- [Doxxing](#doxxing "Forbidden - Leaking Personally Identifiable Information")
 - [Discord Terms of Service / Community Guidelines violations](#discord-tos-cg "Forbidden - Violating Terms of Service / Community Guidelines"), when relevant to community safety.
 
 A violation occurring outside of Galaxy's officially owned and operated servers does not, by itself, prevent our team from taking moderation action when the violation falls within one of the aforementioned categories.
 
-For clarity, none of the following servers are ever considered officially owned by Galaxy:
-
-- Any server being advertised in `#!cpp #group-advertising`.
-- The Galaxypedia Discord server.
-- A small friendly Discord server made by a single Galaxy staff member.
+Generally, an official Galaxy server is one in which the Galaxy staff team administrates and moderates the server, and where the server is owned by a Galaxy staff member. Under this definition, neither the Galaxypedia Discord server nor any of the groups advertised in `#!cpp #group-advertising` are considered official Galaxy servers.
 
 ### Accountability Clause
 
@@ -203,7 +199,7 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
 ### Improper Channel Usage
 
 - Posting messages in channels meant for a specific purpose, in a way that disregards that purpose.
-    - e.g. posting messages in `#!cpp #bug-reports` that are not bug reports.
+    - e.g. Creating posts in `#!cpp #bug-reports` that are not bug reports.
     - If this is a newer member's first offense, consider verbally warning them and deleting their messages instead of moderating them.
 
 ### DJ Role Abuse / Music Bypasses {#dj-role-abuse}
@@ -391,7 +387,7 @@ We use a set of blacklist roles to revoke a rulebreaker's access to specific ser
 
 ### Scaling
 
-- If the user's most recent moderation is 6 months or older, then their moderation history is effectively reset back to 0 offenses.
+If the user's most recent moderation is 6 months or older, then their moderation history is effectively reset back to 0 offenses.
 
 | Punishment                                   | Minor Offenses  | Major Offenses | Forbidden Offenses |
 | -------------------------------------------- | :-------------: | :------------: | :----------------: |
