@@ -4,7 +4,7 @@ The Galaxy Staff Team allows players to request giveaways consisting of ships or
 
 ## Restrictions
 
-Giveaways have a few restrictions on giveaway rewards in place to prevent worthless giveaways. All of the rewards for a giveaway will be removed from the donor when the giveaway begins. This includes ship blueprints. __Giveaways cannot be cancelled after they begin, unless authorized by an Admin.__
+Giveaways have a few restrictions on giveaway rewards in place to prevent worthless giveaways. All of the rewards for a giveaway will be removed from the donor when the giveaway begins. This includes ship blueprints. __Giveaways cannot be cancelled after they begin, unless authorized by the Admin Director or the Lead Admin.__
 
 - Giveaways may only have one reward, either a ship or credits, and only one winner.
     - If the giveaway is for credits, it can have multiple winners.
@@ -16,7 +16,7 @@ Giveaways have a few restrictions on giveaway rewards in place to prevent worthl
 
 ## Conditions
 
-Donors may specify some conditions that entrants must satisfy to qualify for the giveaway reward. Entrants who enter the giveaway without meeting these conditions will receive a Giveaway Blacklist according to the [Moderation Guidelines](./moderation.md#giveaway-blacklist "Moderation Guidelines - Giveaway Blacklist"). If an entrant is suspected to be an alternate account, they may be disqualified from the giveaway by an Admin. If an entrant is determined to be an alternate account after a giveaway is processed, it may be reverted and the giveaway rerolled at the Admin Director's discretion. Entrants must be verified via Bloxlink.
+Donors may specify some conditions that entrants must satisfy to qualify for the giveaway reward. Entrants who enter the giveaway without meeting these conditions will receive a Giveaway Blacklist according to the [Moderation Guidelines](./moderation.md#giveaway-blacklist "Moderation Guidelines - Giveaway Blacklist"). If an entrant is suspected to be an alternate account, they may be disqualified from the giveaway by an Admin. If an entrant is determined to be an alternate account after a giveaway is processed, it may be reverted and the giveaway rerolled at the Admin Director's or Lead Admin's discretion. Entrants must be verified via Bloxlink.
 
 Conditions will be evaluated by admins prior to accepting a giveaway. If they are considered unfair or otherwise too restrictive or specific, the donor may be asked to change their conditions. Some common conditions are listed below, but donors may submit their own if none of these work for them. Do note that these conditions are still subject to being too restrictive.
 
@@ -36,7 +36,7 @@ And here are some conditions that admins will not accept. This is not an exhaust
 - Must have exactly `<condition>`
     - Too restrictive, same as specific usernames.
 - Must `<perform an action>` (i.e. spam pinging a specific Discord user)
-    - May qualify as a [Discord Communuity Guidelines violation](./moderation.md#discord-tos-cg "Moderation Guidelines - Violating Discord Terms of Service / Community Guidelines") on our Discord's part, encouraging members to "harass" another member.
+    - May qualify as a [Discord Community Guidelines violation](./moderation.md#discord-tos-cg "Moderation Guidelines - Violating Discord Terms of Service / Community Guidelines") on our Discord's part, encouraging members to "harass" another member.
 
 ## Starting a Giveaway
 
