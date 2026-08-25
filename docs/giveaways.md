@@ -1,6 +1,6 @@
 # Galaxy Giveaway Policy
 
-The Galaxy Staff Team allows players to request giveaways consisting of ships or credits. These giveaways will be hosted in the [`#!cpp #giveaways`](https://canary.discord.com/channels/204965774618656769/780975200081936432) channel, in the official Discord Server. You can request to start a giveaway by making an Admin Support ticket in the [Support Discord server](https://discord.com/invite/ShWshkhYhZ "Discord - Galaxy Support").
+The Galaxy Staff Team allows players to request giveaways consisting of ships or credits. These giveaways will be hosted in the [`#!cpp #giveaways`](https://discord.com/channels/204965774618656769/780975200081936432) channel, in the official Discord Server. You can request to start a giveaway by making an Admin Support ticket in the [Support Discord server](https://discord.com/invite/ShWshkhYhZ "Discord - Galaxy Support").
 
 ## Restrictions
 
