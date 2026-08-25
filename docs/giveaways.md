@@ -35,8 +35,8 @@ And here are some conditions that admins will not accept. This is not an exhaust
     - Obviously too restrictive. Giveaways are giveaways, not ship transfers.
 - Must have exactly `<condition>`
     - Too restrictive, same as specific usernames.
-- Must `<perform an action>` (i.e. spam pinging a specific Discord user)
-    - May qualify as a [Discord Community Guidelines violation](./moderation.md#discord-tos-cg "Moderation Guidelines - Violating Discord Terms of Service / Community Guidelines") on our Discord's part, encouraging members to "harass" another member.
+- Must spam ping `<specific member>` in the Discord server
+    - May qualify as a [Discord Community Guidelines violation](./moderation.md#discord-tos-cg "Moderation Guidelines - Violating Discord Terms of Service / Community Guidelines") on our Discord's part, encouraging members to "harass" another member. We don't accept this, even if the target agrees.
 
 ## Starting a Giveaway
 
