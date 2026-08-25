@@ -4,7 +4,7 @@ The Galaxy Staff Team allows players to request giveaways consisting of ships or
 
 ## Restrictions
 
-Giveaways have a few restrictions on giveaway rewards in place to prevent worthless giveaways. All of the rewards for a giveaway will be removed from the donor when the giveaway begins. __Giveaways cannot be cancelled after they begin, unless authorized by an Admin.__
+Giveaways have a few restrictions on giveaway rewards in place to prevent worthless giveaways. All of the rewards for a giveaway will be removed from the donor when the giveaway begins. This includes ship blueprints. __Giveaways cannot be cancelled after they begin, unless authorized by an Admin.__
 
 - Giveaways may only have one reward, either a ship or credits, and only one winner.
     - If the giveaway is for credits, it can have multiple winners.
