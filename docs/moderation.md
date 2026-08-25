@@ -133,6 +133,14 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
    _You are responsible for maintaining the confidentiality and security of any credentials used to access your Account (e.g., a username and password). You must not share or disclose such credentials to others (except for Guardians in the case of a Minor User)._
    ///
 
+## Bandwagon Infractions
+
+A bandwagon infraction occurs when multiple individuals collectively cause or contribute to a disruption; usually taking the form of spamming (text or media) or expressing [extreme toxicity](#toxicity-trolling) or [targeted harassment](#targeted-harassment) against another invidiual or group of individuals.
+
+In these situations, each participant should be moderated individually based on the severity of their own involvement. If an individual's moderation history would ordinarily warrant a punishment at least as severe as a mute for a minor infraction under [punishment scaling](#scaling), that punishment should be issued. Otherwise, participants should be muted for a duration between five (5) minutes and twenty-four (24) hours.
+
+Bandwagon infractions are treated as normal infractions. They must be logged with supporting evidence and are considered minor infractions for the purposes of [punishment scaling](#scaling).
+
 ## Minor Infractions
 
 ### Filter Bypasses
