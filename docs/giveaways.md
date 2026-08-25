@@ -12,7 +12,7 @@ Giveaways have a few restrictions on giveaway rewards in place to prevent worthl
 - Advanced ships of the Battleship class or above may be giveaway rewards.
 - Limited ships of the Battlecruiser class or above may be giveaway rewards.
     - Limited ships of the Cruiser class or below may also be giveaway rewards, but only at an admin's discretion. This will usually only be allowed for particularly rare limiteds, such as the Reaper.
-- Credit giveaways are allowed only if the per-winner reward is higher than 100,000 credits.
+- Credit giveaways are allowed only if the per-winner reward is higher than or equal to 100,000 credits.
 
 ## Conditions
 
