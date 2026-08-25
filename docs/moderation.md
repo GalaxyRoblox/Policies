@@ -86,8 +86,8 @@ Galaxy's moderation team generally does not police rulebreaking behavior in serv
 
 However, certain types of violations may be moderated by Galaxy's moderation team regardless of where the violation occurs. These categories are as follows:
 
-- **Extreme** cases of [targeted harassment and/or defamation](#harassment "Major - Targeted Harassment")
-- [Doxxing](#doxxing "Forbidden - Leaking Personally Identifiable Information")
+- **Extreme** cases of [targeted harassment](#targeted-harassment "Major - Targeted Harassment").
+- [Doxxing](#doxxing "Forbidden - Leaking Personally Identifiable Information").
 - [Discord Terms of Service / Community Guidelines violations](#discord-tos-cg "Forbidden - Violating Terms of Service / Community Guidelines"), when relevant to community safety.
 
 A violation occurring outside of Galaxy's officially owned and operated servers does not, by itself, prevent our team from taking moderation action when the violation falls within one of the aforementioned categories.
@@ -229,7 +229,7 @@ When exercising this discretion, always prioritize transparency: thoroughly docu
     - This is usually invoked for common jokes such as "kys" when those jokes have no target.
     - If someone is being explicitly told to commit self harm or suicide, moderate the encourager under [Encouraging Self Harm](#encouraging-self-harm "Forbidden - Encouraging Self Harm") instead.
 
-### Targeted Harassment {#harassment}
+### Targeted Harassment
 
 - Toxicity that surpasses what could reasonably be considered a [minor infraction](#toxicity-trolling "Minor - Toxicity / Trolling").
     - Repeated harassment towards another community member, or harassment in DMs.
