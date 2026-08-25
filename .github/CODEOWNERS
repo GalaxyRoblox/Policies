@@ -19,3 +19,6 @@ flake.lock @cswimr
 # Assign these to the current Mod Manager.
 docs/moderation.md @DylanTheVillain101
 docs/img/moderation/** @DylanTheVillain101
+
+# Assign these to the current Admin Director & Lead Admin
+docs/giveaways.md @ButterDogg @MRRosdiamond
