@@ -42,7 +42,7 @@ And here are some conditions that admins will not accept. This is not an exhaust
 
 This section is to instruct Admins on how to actually start a giveaway. The Galaxy Discord bot is used for giveaways. Run `-gw explain` to see a list of all of the arguments the `-gw adv` command can accept. The following codeblock contains the common flags most giveaways will use.
 
-```
+```ansi
 --channel [channel]
 --prize [what is being rewarded?]
 --duration [use 24h, 1d, 2h30m, etc]
@@ -55,14 +55,15 @@ This section is to instruct Admins on how to actually start a giveaway. The Gala
 --blacklist [role_id] - Blacklists a role from entering the giveaway
 ```
 
-
 /// details | Example
     open: True
-```
+
+```ansi
 -gw adv --channel 780975200081936432 --prize Cyber Leviathan --duration 24h --blacklist 976726812388376576
 --description You must have at least 1,000 messages in the server to qualify for this giveaway. Donated by GuideWriter.
 --image https://static.wikitide.net/galaxypediawiki/thumb/3/3e/Galaxy_CyberLevi-Icon.webp/300px-Galaxy_CyberLevi-Icon.webp.png
 ```
+
 ///
 
 *[Net Worth]: Total value of a player's inventory, as shown in /inventory
