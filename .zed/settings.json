@@ -6,9 +6,9 @@
     ".direnv",
     ".cache",
     ".data",
-    ".venv",
+    ".venv"
   ],
   "prettier": {
-    "allowed": false,
-  },
+    "allowed": false
+  }
 }
